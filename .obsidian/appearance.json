@@ -1,0 +1,13 @@
+{
+  "enabledCssSnippets": [
+    "supercharged-links-gen",
+    "Fade_Header",
+    "Hover Properties_w-Columns"
+  ],
+  "cssTheme": "ITS Theme",
+  "theme": "moonstone",
+  "accentColor": "#bc2929",
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
+  "interfaceFontFamily": ""
+}

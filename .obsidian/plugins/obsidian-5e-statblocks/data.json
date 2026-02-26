@@ -1,0 +1,184 @@
+{
+  "monsters": [
+    [
+      "Scarecrow",
+      {
+        "name": "Scarecrow",
+        "source": "5e SRD",
+        "size": "Medium",
+        "type": "construct",
+        "subtype": "",
+        "alignment": "chaotic evil",
+        "ac": 11,
+        "hp": 27,
+        "hit_dice": "6d8",
+        "speed": "30 ft.",
+        "stats": [
+          11,
+          13,
+          11,
+          10,
+          10,
+          13
+        ],
+        "saves": [],
+        "skillsaves": [],
+        "damage_vulnerabilities": "fire",
+        "damage_resistances": "",
+        "damage_immunities": "poison",
+        "condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned, unconscious",
+        "senses": "darkvision 60 ft., passive Perception 10",
+        "languages": "Common plus one other language",
+        "cr": "1",
+        "bestiary": true,
+        "traits": [],
+        "actions": [
+          {
+            "name": "Fearsome Claw",
+            "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (2d4 + 1) slashing damage, and the target has the frightened condition until the end of the scarecrow's next turn.",
+            "attack_bonus": 3,
+            "damage_dice": "2d4",
+            "damage_bonus": 1
+          },
+          {
+            "name": "Terrifying Glare",
+            "desc": "The scarecrow targets one creature it can see within 30 ft. of it. The target must succeed on a DC 11 Wisdom saving throw or be frightened until the end of the scarecrow's next turn. While frightened in this way, the target is paralyzed.",
+            "attack_bonus": 0
+          }
+        ],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Vine Blight",
+      {
+        "name": "Vine Blight",
+        "source": "5e SRD",
+        "size": "Medium",
+        "type": "plant",
+        "subtype": "",
+        "alignment": "neutral evil",
+        "ac": 12,
+        "hp": 19,
+        "hit_dice": "3d8 + 6",
+        "speed": "20 ft.",
+        "stats": [
+          15,
+          8,
+          14,
+          5,
+          10,
+          3
+        ],
+        "saves": [],
+        "skillsaves": [
+          {
+            "stealth": 1
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "deafened",
+        "senses": "blindsight 60 ft., passive Perception 10",
+        "languages": "Common",
+        "cr": "1/2",
+        "bestiary": true,
+        "traits": [],
+        "actions": [
+          {
+            "name": "Constricting Vine",
+            "desc": "Melee Weapon Attack: +4 to hit, reach 10 ft., one target. Hit: 6 (1d8 + 2) bludgeoning damage. If the target is a Large or smaller creature, it is grappled (escape DC 12). Until the grapple ends, the target takes 4 (1d8) bludgeoning damage at the start of each of its turns, and the blight can’t use Constricting Vine on another target.",
+            "attack_bonus": 4,
+            "damage_dice": "1d8",
+            "damage_bonus": 2
+          },
+          {
+            "name": "Entangling Plants (Recharge 5-6)",
+            "desc": "The blight casts Entangle (spell save DC 12), using Constitution as its spellcasting ability.",
+            "attack_bonus": 0
+          }
+        ],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Twig Blight",
+      {
+        "name": "Twig Blight",
+        "source": "5e SRD",
+        "size": "Small",
+        "type": "plant",
+        "subtype": "",
+        "alignment": "neutral evil",
+        "ac": 14,
+        "hp": 7,
+        "hit_dice": "2d6",
+        "speed": "20 ft.",
+        "stats": [
+          6,
+          14,
+          11,
+          4,
+          8,
+          3
+        ],
+        "saves": [],
+        "skillsaves": [
+          {
+            "stealth": 4
+          }
+        ],
+        "damage_vulnerabilities": "fire",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "deafened",
+        "senses": "blindsight 60 ft., passive Perception 9",
+        "languages": "Understands Common but can't speak",
+        "cr": "1/8",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Pack Tactics",
+            "desc": "The blight has advantage on an attack roll against a creature if at least one of the blight’s allies is within 5 ft. of the creature and the ally isn’t incapacitated.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Claw",
+            "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashing damage.",
+            "attack_bonus": 4,
+            "damage_dice": "1d4",
+            "damage_bonus": 2
+          }
+        ],
+        "legendary_actions": []
+      }
+    ]
+  ],
+  "defaultLayouts": {},
+  "layouts": [],
+  "default": "basic-5e-layout",
+  "useDice": true,
+  "renderDice": false,
+  "export": true,
+  "showAdvanced": false,
+  "version": {
+    "major": 4,
+    "minor": 10,
+    "patch": 3
+  },
+  "paths": [
+    "/"
+  ],
+  "autoParse": false,
+  "disableSRD": false,
+  "tryToRenderLinks": true,
+  "debug": false,
+  "notifiedOfFantasy": false,
+  "hideConditionHelp": false,
+  "alwaysImport": false,
+  "defaultLayoutsIntegrated": true,
+  "atomicWrite": false
+}
