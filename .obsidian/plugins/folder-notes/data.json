@@ -12,23 +12,6 @@
   "excludeFolders": [
     {
       "type": "folder",
-      "id": "2cfd940e-2c41-4a86-921b-6940671146c5",
-      "path": "DnD/1. World/Britannia",
-      "subFolders": false,
-      "disableSync": true,
-      "disableAutoCreate": true,
-      "disableFolderNote": true,
-      "enableCollapsing": false,
-      "position": 0,
-      "excludeFromFolderOverview": false,
-      "string": "",
-      "hideInSettings": true,
-      "showFolderNote": false,
-      "detached": true,
-      "detachedFilePath": "DnD Campaign/1. World/Britannia/Britannia.md"
-    },
-    {
-      "type": "folder",
       "id": "17ee105d-4fe2-4f00-935b-3ec749168b78",
       "path": "DnD Campaign/1. World/Britannia/Hanbury Woods",
       "subFolders": false,
@@ -36,7 +19,7 @@
       "disableAutoCreate": true,
       "disableFolderNote": true,
       "enableCollapsing": false,
-      "position": 1,
+      "position": 0,
       "excludeFromFolderOverview": false,
       "string": "",
       "hideInSettings": true,

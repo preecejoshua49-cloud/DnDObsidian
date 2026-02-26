@@ -1,2 +1,2 @@
 [[Hanbury Village]]
-[[Hanbury Woods]]
+[[DnD/1. World/Britannia/Worcstershire/Hanbury/Hanbury Woods]]
