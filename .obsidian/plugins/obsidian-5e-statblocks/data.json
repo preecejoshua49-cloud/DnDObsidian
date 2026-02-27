@@ -155,6 +155,115 @@
         ],
         "legendary_actions": []
       }
+    ],
+    [
+      "Giant Boar",
+      {
+        "name": "Giant Boar",
+        "source": "5e 2024",
+        "size": "Large",
+        "type": "beast",
+        "subtype": "",
+        "alignment": "unaligned",
+        "ac": 13,
+        "initiative": 0,
+        "hp": 42,
+        "hit_dice": "5d10 + 15",
+        "speed": "40 ft.",
+        "stats": [
+          17,
+          10,
+          16,
+          2,
+          7,
+          5
+        ],
+        "saves": {
+          "strength": 5,
+          "dexterity": 0,
+          "constitution": 3,
+          "intelligence": -4,
+          "wisdom": -2,
+          "charisma": -3
+        },
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "passive Perception 8",
+        "languages": "None",
+        "cr": "2",
+        "proficiency_bonus": 2,
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Bloodied Fury",
+            "desc": "The boar has Advantage on melee attack rolls while it is Bloodied."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Gore",
+            "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Piercing damage. If the target is a Large or smaller creature and the boar moved 20 or more feet straight toward it immediately before the hit, the target takes an extra 7 (2d6) Piercing damage and has the Prone condition.",
+            "attack_bonus": 5,
+            "damage_dice": "2d6",
+            "damage_bonus": 3
+          }
+        ]
+      }
+    ],
+    [
+      "Elk",
+      {
+        "name": "Elk",
+        "source": "5e 2024",
+        "size": "Large",
+        "type": "beast",
+        "subtype": "",
+        "alignment": "unaligned",
+        "ac": 10,
+        "initiative": 0,
+        "hp": 11,
+        "hit_dice": "2d10",
+        "speed": "50 ft.",
+        "stats": [
+          16,
+          10,
+          11,
+          2,
+          10,
+          6
+        ],
+        "saves": {
+          "strength": 3,
+          "dexterity": 0,
+          "constitution": 0,
+          "intelligence": -4,
+          "wisdom": 0,
+          "charisma": -2
+        },
+        "skills": {
+          "perception": 2
+        },
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "darkvision 60 ft., passive Perception 12",
+        "languages": "None",
+        "cr": "1/4",
+        "proficiency_bonus": 2,
+        "bestiary": true,
+        "actions": [
+          {
+            "name": "Ram",
+            "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Bludgeoning damage. If the target is a Large or smaller creature and the elk moved 20 or more feet straight toward it immediately before the hit, the target takes an extra 3 (1d6) Bludgeoning damage and has the Prone condition.",
+            "attack_bonus": 5,
+            "damage_dice": "1d6",
+            "damage_bonus": 3
+          }
+        ]
+      }
     ]
   ],
   "defaultLayouts": {},

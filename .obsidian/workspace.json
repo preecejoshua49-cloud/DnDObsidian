@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "468cd8162f85d9d1",
+        "id": "1ebe186a47390d01",
         "type": "tabs",
         "children": [
           {
-            "id": "ae387b79ea036ab2",
+            "id": "22db840fb8767063",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,94 +18,112 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "TemplateSettlement",
+                  "title": "Elk",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Templates/TemplateSettlement.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TemplateSettlement\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":81,\"ch\":0},\"to\":{\"line\":81,\"ch\":0}},\"scroll\":58.89277611940298}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Monsters/Elk.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Elk\"}",
+                  "eState": "{\"scroll\":0}"
                 },
                 {
-                  "title": "Hanbury Woods",
+                  "title": "Giant Boar",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury Woods.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Hanbury Woods\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":0},\"to\":{\"line\":24,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Monsters/Giant Boar.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Giant Boar\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":5},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Hanbury Village",
+                  "title": "Elk",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury Village.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Hanbury Village\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":46},\"to\":{\"line\":25,\"ch\":46}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Monsters/Elk.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Elk\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
-                  "title": "Hanbury Caverns",
+                  "title": "Giant Boar",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury Caverns.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Hanbury Caverns\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":0},\"to\":{\"line\":22,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Monsters/Giant Boar.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Giant Boar\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":5},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Hanbury Woods",
+                  "title": "Elk",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury Woods.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Hanbury Woods\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":21,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Monsters/Elk.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Elk\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
-                  "title": "Hanbury Village",
+                  "title": "The Pattern of the Predator",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury Village.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Hanbury Village\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":0},\"to\":{\"line\":24,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 3 - The Hunt/Locations/The Pattern of the Predator.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Pattern of the Predator\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":37.84058129370629}"
                 },
                 {
-                  "title": "Hanbury Caverns",
+                  "title": "Giant Boar",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury Caverns.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Hanbury Caverns\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Monsters/Giant Boar.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Giant Boar\"}",
+                  "eState": "{\"scroll\":0}"
                 },
                 {
-                  "title": "Hanbury Woods",
+                  "title": "Polar Bear",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury Woods.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Hanbury Woods\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":21,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Monsters/Polar Bear.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Polar Bear\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.030665538004504}"
                 },
                 {
-                  "title": "Locations",
+                  "title": "Giant Boar",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Locations/Locations.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Locations\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":10},\"to\":{\"line\":0,\"ch\":10}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Monsters/Giant Boar.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Giant Boar\"}",
+                  "eState": "{\"scroll\":0.6000000000000001}"
                 },
                 {
-                  "title": "Britannia",
+                  "title": "Polar Bear",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/1. World/Britannia/Britannia.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Britannia\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Monsters/Polar Bear.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Polar Bear\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Hanbury Woods",
+                  "title": "Awakened Tree",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury Woods.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Hanbury Woods\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":21,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Monsters/Awakened Tree.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Awakened Tree\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":5},\"to\":{\"line\":5,\"ch\":5}}}"
                 },
                 {
-                  "title": "Locations",
+                  "title": "Giant Boar",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Locations/Locations.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Locations\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Monsters/Giant Boar.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Giant Boar\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
-                  "title": "Britannia",
+                  "title": "The Pattern of the Predator",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/1. World/Britannia/Britannia.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Britannia\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 3 - The Hunt/Locations/The Pattern of the Predator.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Pattern of the Predator\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":51,\"ch\":13},\"to\":{\"line\":51,\"ch\":13}},\"scroll\":37.84058129370629}"
+                },
+                {
+                  "title": "CR to XP Conversion",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Notes/CR to XP Conversion.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"CR to XP Conversion\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":10},\"to\":{\"line\":26,\"ch\":10}},\"scroll\":0}"
+                },
+                {
+                  "title": "The Pattern of the Predator",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 3 - The Hunt/Locations/The Pattern of the Predator.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Pattern of the Predator\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":47,\"ch\":0},\"to\":{\"line\":47,\"ch\":0}},\"scroll\":32.5}"
+                },
+                {
+                  "title": "Bernard",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/NPCs/Bernard.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Bernard\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DnD/Templates/TemplateScene.md",
-                "mode": "source",
+                "file": "DnD/Campaigns/The Mystery of the Forest/Act 3 - The Hunt/Locations/The Pattern of the Predator.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TemplateScene"
+              "title": "The Pattern of the Predator"
             }
           }
         ]
@@ -453,38 +471,41 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "b3b30eb368b71af2",
+  "active": "22db840fb8767063",
   "lastOpenFiles": [
-    "DnD/Templates/TemplateSettlement.md",
-    "DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury Woods.md",
-    "DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury Village.md",
-    "DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury Caverns.md",
-    "DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury.md",
-    "DnD/1. World/Britannia/Worcestershire/Worcestershire.md",
-    "DnD/1. World/Britannia/Britannia.md",
-    "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Locations/Locations.md",
-    "conflict-files-obsidian-git.md",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 2/Chapter 2 - Summons.md",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Chapter 1 - Tavern.md",
-    "DnD/Templates/TemplateChapter.md",
-    "DnD/Templates/TemplateNPC.md",
-    "DnD/Templates/TemplateMagicalItem.md",
-    "DnD/Templates/TemplateCharacter.md",
-    "DnD/z/Items/PlayerItems/MagicItems/Wonderous Items/Uncommon/Alchemy Jug.md",
-    "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/The Field.md",
-    "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/Sunken Spring.md",
+    "DnD/z/Monsters/Elk.md",
+    "DnD/z/Monsters/Giant Boar.md",
+    "DnD/Campaigns/The Mystery of the Forest/Act 3 - The Hunt/Locations/The Pattern of the Predator.md",
+    "DnD/z/Monsters/Polar Bear.md",
+    "DnD/z/Monsters/Awakened Tree.md",
+    "DnD/z/Notes/CR to XP Conversion.md",
+    "DnD/z/Notes",
+    "DnD/z/NPCs/Bernard.md",
     "DnD/0. DM Screen/0.DM Screen.md",
-    "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/Stone Circle.md",
-    "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/Animal Ring.md",
-    "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/Hollow Oak.md",
-    "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/Overgrown Campsite.md",
+    "DnD/z/NPCs/Harlan Thatch.md",
+    "DnD/z/MiscActions/TheSpiralStones_HanburyWoods.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Chapter 1 - Tavern.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 2 - Tavern and Josh intro.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 1 - Arrival.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3 - Drinking.md",
+    "DnD/Campaigns/The Mystery of the Forest/Act 3 - The Hunt/Locations/Untitled 1.md",
+    "DnD/Campaigns/The Mystery of the Forest/Act 3 - The Hunt/Locations/Locations.md",
+    "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Locations/Locations.md",
+    "DnD/Campaigns/The Mystery of the Forest/Act 2 - The Curious Caverns/Locations/Locations.md",
+    "DnD/Campaigns/The Mystery of the Forest/Act 2 - The Curious Caverns/Scenes/5. The Hollowed Guardian.md",
+    "DnD/Campaigns/The Mystery of the Forest/Act 3 - The Hunt/Locations",
+    "DnD/Campaigns/The Mystery of the Forest/Act 3 - The Hunt",
+    "DnD/Campaigns/The Mystery of the Forest/Act 2 - The Curious Caverns/Scenes/3. The Root Shepherd.md",
+    "DnD/Campaigns/The Mystery of the Forest/Act 2 - The Curious Caverns/Scenes/2. Prison Block.md",
+    "DnD/Campaigns/The Mystery of the Forest/Act 2 - The Curious Caverns/Scenes/6. The Spore Cathedral.md",
+    "DnD/Campaigns/The Mystery of the Forest/Act 2 - The Curious Caverns/Scenes/7. The Gladiator Ring.md",
+    "DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury Caverns.md",
+    "DnD/Templates/TemplateScene.md",
+    "DnD/Templates/TemplateSettlement.md",
     "DnD/z/Images/image-1 1.png",
     "DnD/z/Images/image 1.png",
-    "DnD/z/Attributes/Properties/Versatile.md",
     "DnD/z/Items/PlayerItems/MagicItems/Wonderous Items/Uncommon",
     "DnD/z/Items/PlayerItems/MagicItems/Wonderous Items",
-    "DnD/z/Attributes/Properties/Two-Handed.md",
-    "DnD/z/Attributes/Properties/Reach.md",
     "DnD/z/Images/image-1.png",
     "DnD/z/Images/image.png",
     "DnD/z/Items/Homebrew Magic Items",
@@ -492,9 +513,6 @@
     "DnD/z/Attributes/Masteries/Weapons",
     "DnD/z/Attributes/Properties",
     "DnD/z/Attributes/Masteries",
-    "DnD/z/Attributes",
-    "DnD/z/Items/PlayerItems/MagicItems/Weapons/Weapon/Weapon - Uncommon/Mithral",
-    "DnD/z/Items/PlayerItems/MagicItems/Weapons/Weapon/Weapon - Uncommon/Adamantine",
     "DnD/z/Images/The Root Shepherd face.jpg",
     "DnD/z/Images/Hanbury Caverns.png",
     "DnD/z/Images/widget.jpeg",
