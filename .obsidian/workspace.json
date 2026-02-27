@@ -298,17 +298,23 @@
             "id": "63096f9d35484f70",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Hanbury",
-                  "icon": "lucide-table",
-                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury.base\",\"viewName\":\"Table\"},\"icon\":\"lucide-table\",\"title\":\"Hanbury\"}",
-                  "eState": "{\"views\":{\"Table\":{\"scroll\":{\"top\":0.8353817504655493,\"left\":0},\"activeCell\":null}}}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Hanbury",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Hanbury\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":18},\"to\":{\"line\":0,\"ch\":18}}}"
+                },
+                {
+                  "title": "Worcestershire",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/1. World/Britannia/Worcestershire/Worcestershire.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Worcestershire\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":13},\"to\":{\"line\":0,\"ch\":13}}}"
                 },
                 {
                   "title": "Hanbury",
@@ -705,39 +711,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DnD/1. World/Britannia/Worcestershire/Worcestershire.md",
+                "file": "DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury Caverns.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Worcestershire"
-            }
-          },
-          {
-            "id": "ef748d2b731a298c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Hanbury Caverns"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -1314,13 +1297,14 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "ef748d2b731a298c",
+  "active": "63096f9d35484f70",
   "lastOpenFiles": [
+    "DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury.md",
     "DnD/1. World/Britannia/Worcestershire/Worcestershire.md",
+    "DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury.canvas",
     "conflict-files-obsidian-git.md",
     "DnD/Templates/TemplateChapter.md",
     "DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury.base",
-    "DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury.md",
     "DnD/1. World/Britannia/Britannia.md",
     "DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury Caverns.md",
     "DnD/z/NPCs/Untitled 1.md",
@@ -1344,7 +1328,6 @@
     "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/Overgrown Campsite.md",
     "DnD/z/Images/image-1 1.png",
     "DnD/z/Images/image 1.png",
-    "DnD/z/Attributes/Properties/Versatile.md",
     "DnD/z/Items/PlayerItems/MagicItems/Wonderous Items/Uncommon",
     "DnD/z/Items/PlayerItems/MagicItems/Wonderous Items",
     "DnD/z/Images/image-1.png",
