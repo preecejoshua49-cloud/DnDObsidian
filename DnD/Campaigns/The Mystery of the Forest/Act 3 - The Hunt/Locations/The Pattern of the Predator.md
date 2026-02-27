@@ -44,6 +44,8 @@ Something large moves.
 
 ## Participants 
 
+[[Giant Boar]]
+[[Elk]]
 [[Player List]]
 
 
