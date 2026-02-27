@@ -4,6 +4,12 @@
 **Chapter Title:**
 **Chapter Opening:**
 
+## World
+[[Britannia]]
+## Region 
+[[Worcestershire]]
+## Location
+
 ## Player Objectives 
 
 ## Scene List

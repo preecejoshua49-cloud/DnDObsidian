@@ -712,9 +712,32 @@
               "icon": "lucide-file",
               "title": "Worcestershire"
             }
+          },
+          {
+            "id": "ef748d2b731a298c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -1291,10 +1314,12 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "2c7b32caa169954c",
+  "active": "ef748d2b731a298c",
   "lastOpenFiles": [
-    "DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury.base",
     "DnD/1. World/Britannia/Worcestershire/Worcestershire.md",
+    "conflict-files-obsidian-git.md",
+    "DnD/Templates/TemplateChapter.md",
+    "DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury.base",
     "DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury.md",
     "DnD/1. World/Britannia/Britannia.md",
     "DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury Caverns.md",
@@ -1322,7 +1347,6 @@
     "DnD/z/Attributes/Properties/Versatile.md",
     "DnD/z/Items/PlayerItems/MagicItems/Wonderous Items/Uncommon",
     "DnD/z/Items/PlayerItems/MagicItems/Wonderous Items",
-    "DnD/z/Attributes/Properties/Two-Handed.md",
     "DnD/z/Images/image-1.png",
     "DnD/z/Images/image.png",
     "DnD/z/Items/Homebrew Magic Items",

@@ -4,6 +4,14 @@
 **Chapter Title:** Tavern
 **Chapter Opening:** 
 
+## World
+[[Britannia]]
+
+## Region 
+[[Worcestershire]]
+
+## Location
+
 ## Player Objectives 
 Introduction to [[JoshCharacter]]
 
