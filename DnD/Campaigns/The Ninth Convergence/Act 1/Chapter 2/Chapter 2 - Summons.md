@@ -7,6 +7,14 @@
 ## Player Objectives 
 Receive [[Letter from Obasi]] and accept the quest
 
+## World
+[[Britannia]]
+
+## Region 
+[[Worcestershire]]
+
+## Location
+
 ## Scene List
 [[Scene 1 - The Letter]]
 [[Scene 1 - The Wandering Merchant]]
