@@ -8,166 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2c67234dca5b7a2a",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "1. The Field",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/1. The Field.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"1. The Field\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Scene 2b - Merchant Inventory",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 2 - Summons/Scene 2b - Merchant Inventory.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 2b - Merchant Inventory\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Scene 2 - The Wandering Merchant",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 2 - Summons/Scene 2 - The Wandering Merchant.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 2 - The Wandering Merchant\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":24.065506653019447}"
-                },
-                {
-                  "title": "Scene 2b - Merchant Inventory",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 2 - Summons/Scene 2b - Merchant Inventory.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 2b - Merchant Inventory\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Scene 2 - The Wandering Merchant",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 2 - Summons/Scene 2 - The Wandering Merchant.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 2 - The Wandering Merchant\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":24.065506653019447}"
-                },
-                {
-                  "title": "1. The Field",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/1. The Field.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"1. The Field\"}",
-                  "eState": "{\"scroll\":15.716796875}"
-                },
-                {
-                  "title": "1. Age of the First Concord",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/2. Lore/1. Age of the First Concord.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"1. Age of the First Concord\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "CheckingTheCrops_TheField",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/MiscActions/CheckingTheCrops_TheField.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"CheckingTheCrops_TheField\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.10526315789473684}"
-                },
-                {
-                  "title": "1. The Field",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/1. The Field.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"1. The Field\"}",
-                  "eState": "{\"scroll\":16.606811601315208}"
-                },
-                {
-                  "title": "0.DM Screen",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/0. DM Screen/0.DM Screen.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"0.DM Screen\"}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "title": "1. The Field",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/1. The Field.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"1. The Field\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":40,\"ch\":42},\"to\":{\"line\":40,\"ch\":42}},\"scroll\":23.9953125}"
-                },
-                {
-                  "title": "Locations",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Locations/Locations.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Locations\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "1. The Field",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/1. The Field.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"1. The Field\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Hanbury Woods",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury Woods.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Hanbury Woods\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":21,\"ch\":0}},\"scroll\":13.418530351437699}"
-                },
-                {
-                  "title": "Locations",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Locations/Locations.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Locations\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Penis",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Test/Penis.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Penis\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":21},\"to\":{\"line\":0,\"ch\":21}}}"
-                },
-                {
-                  "title": "TemplateNPC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Templates/TemplateNPC.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TemplateNPC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/graph.json",
-                "bFile": ".obsidian/graph.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: graph.json  (Working Tree)"
-            }
-          },
-          {
-            "id": "13d7abea8825b1f0",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "conflict-files-obsidian-git",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"conflict-files-obsidian-git\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
-            }
-          },
-          {
             "id": "ed7299b06c0afb55",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -178,6 +18,294 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "6. Stone Circle",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/6. Stone Circle.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"6. Stone Circle\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":14.90578601924425}"
+                },
+                {
+                  "title": "1. Village",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/1. Village.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"1. Village\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":0},\"to\":{\"line\":24,\"ch\":0}},\"scroll\":18.074330357142856}"
+                },
+                {
+                  "title": "Scene 2 - Tavern and Josh intro",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 1 - Tavern/Scene 2 - Tavern and Josh intro.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 2 - Tavern and Josh intro\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":36},\"to\":{\"line\":2,\"ch\":36}}}"
+                },
+                {
+                  "title": "Scene 1 - Arrival",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 1 - Tavern/Scene 1 - Arrival.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 1 - Arrival\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 2 - Tavern and Josh intro",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 1 - Tavern/Scene 2 - Tavern and Josh intro.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 2 - Tavern and Josh intro\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 1 - Arrival",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 1 - Tavern/Scene 1 - Arrival.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 1 - Arrival\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 2 - Tavern and Josh intro",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 1 - Tavern/Scene 2 - Tavern and Josh intro.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 2 - Tavern and Josh intro\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 1 - Arrival",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 1 - Tavern/Scene 1 - Arrival.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 1 - Arrival\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "6. Stone Circle",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/6. Stone Circle.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"6. Stone Circle\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":0},\"to\":{\"line\":25,\"ch\":0}},\"scroll\":14.90578601924425}"
+                },
+                {
+                  "title": "Scene 3b 1 - Tavern brawn",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 1 - Tavern/Scene 3b 1 - Tavern brawn.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3b 1 - Tavern brawn\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "1. Village",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/1. Village.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"1. Village\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":0},\"to\":{\"line\":30,\"ch\":0}},\"scroll\":18.074330357142856}"
+                },
+                {
+                  "title": "Scene 2 - Tavern and Josh intro",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 1 - Tavern/Scene 2 - Tavern and Josh intro.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 2 - Tavern and Josh intro\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":208},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 1 - Arrival",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 1 - Tavern/Scene 1 - Arrival.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 1 - Arrival\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "1. Village",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/1. Village.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"1. Village\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":0},\"to\":{\"line\":28,\"ch\":0}},\"scroll\":8.6708984375}"
+                },
+                {
+                  "title": "Scene 2 - Tavern and Josh intro",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 1 - Tavern/Scene 2 - Tavern and Josh intro.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 2 - Tavern and Josh intro\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "1. Village",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/1. Village.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"1. Village\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 1 - Arrival",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 1 - Tavern/Scene 1 - Arrival.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 1 - Arrival\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "1. Village",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/1. Village.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"1. Village\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":36},\"to\":{\"line\":12,\"ch\":36}},\"scroll\":33.950520833333336}"
+                },
+                {
+                  "title": "Scene 3 - Drinking",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 1 - Tavern/Scene 3 - Drinking.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3 - Drinking\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Drinking_Tavern",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/MiscActions/Drinking_Tavern.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Drinking_Tavern\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
+                },
+                {
+                  "title": "CheckingTheCrops_TheField",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/MiscActions/CheckingTheCrops_TheField.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"CheckingTheCrops_TheField\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "BlackenedEarth_StoneCircle",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/MiscActions/BlackenedEarth_StoneCircle.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"BlackenedEarth_StoneCircle\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "StandingStones_StoneCircle",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/MiscActions/StandingStones_StoneCircle.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"StandingStones_StoneCircle\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Roots_StoneCircle",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/MiscActions/Roots_StoneCircle.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Roots_StoneCircle\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Investigation_AwakenedTree",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/MiscActions/Investigation_AwakenedTree.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Investigation_AwakenedTree\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "InspectionChecks_AnimalRing",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/MiscActions/InspectionChecks_AnimalRing.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"InspectionChecks_AnimalRing\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Drinking_Tavern",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/MiscActions/Drinking_Tavern.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Drinking_Tavern\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 3 - Drinking",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 1 - Tavern/Scene 3 - Drinking.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3 - Drinking\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "1. Village",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/1. Village.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"1. Tavern\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Drinking_Tavern",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/MiscActions/Drinking_Tavern.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Drinking_Tavern\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "1. Village",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/1. Village.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"1. Tavern\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Drinking_Tavern",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/MiscActions/Drinking_Tavern.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Drinking_Tavern\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "BlackenedEarth_StoneCircle",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/MiscActions/BlackenedEarth_StoneCircle.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"BlackenedEarth_StoneCircle\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 3 - Drinking",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 1 - Tavern/Scene 3 - Drinking.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3 - Drinking\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":2},\"to\":{\"line\":0,\"ch\":2}}}"
+                },
+                {
+                  "title": "Scene 1 - Arrival",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 1 - Tavern/Scene 1 - Arrival.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 1 - Arrival\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 2 - Tavern and Josh intro",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 1 - Tavern/Scene 2 - Tavern and Josh intro.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 2 - Tavern and Josh intro\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "1. Village",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/1. Village.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"1. Tavern\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 1 - Arrival",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 1 - Tavern/Scene 1 - Arrival.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 1 - Arrival\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "1. Village",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/1. Village.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"1. Tavern\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "6. Stone Circle",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/6. Stone Circle.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"6. Stone Circle\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "5. Animal Ring",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/5. Animal Ring.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"5. Animal Ring\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":21.280416283348664}"
+                },
+                {
+                  "title": "4. Hollow Oak",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/4. Hollow Oak.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"4. Hollow Oak\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":16.838541666666668}"
+                },
+                {
+                  "title": "3. Overgrown Campsite",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/3. Overgrown Campsite.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"3. Overgrown Campsite\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.8771929824561403}"
+                },
+                {
+                  "title": "2. Sunken Spring",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/2. Sunken Spring.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"2. Sunken Spring\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":11.583333333333334}"
+                },
+                {
+                  "title": "1. The Field",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/1. The Field.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"1. The Field\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":23.3703125}"
+                },
+                {
+                  "title": "1. Village",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/1. Village.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"1. Tavern\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":36.1171875}"
+                },
+                {
+                  "title": "Locations",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Locations/Locations.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Locations\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Diff: Penis  (Index)",
+                  "icon": "diff",
+                  "state": "{\"type\":\"split-diff-view\",\"state\":{\"aFile\":\"DnD/Test/Penis.md\",\"bFile\":\"DnD/Test/Penis.md\",\"aRef\":\"HEAD\",\"bRef\":\"\"},\"icon\":\"diff\",\"title\":\"Diff: Penis  (Index)\"}",
+                  "eState": "{}"
+                },
+                {
                   "title": "conflict-files-obsidian-git",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"conflict-files-obsidian-git\"}",
@@ -186,19 +314,17 @@
               ]
             },
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "DnD/Test/Penis.md",
-                "bFile": "DnD/Test/Penis.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "DnD/3. Resources/Monsters/Vine Blight.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Penis  (Index)"
+              "icon": "lucide-file",
+              "title": "Vine Blight"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -523,37 +649,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed7299b06c0afb55",
+  "active": "b3b30eb368b71af2",
   "lastOpenFiles": [
+    "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/6. Stone Circle.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/1. Village.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 1 - Tavern/Scene 2 - Tavern and Josh intro.md",
+    "DnD/Templates/TemplateScene.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 1 - Tavern/Scene 1 - Arrival.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 1 - Tavern/Scene 3b 1 - Tavern brawn.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 1 - Tavern/Scene 3 - Drinking.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 1 - Tavern/Scene 3a 1 - Tavern brawn.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 1 - Tavern/Scene 3a - Rising Tension Sober.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 1 - Tavern/Scene 3b - Rising Tension Drunk.md",
+    "DnD/z/MiscActions/Drinking_Tavern.md",
+    "DnD/z/MiscActions/CheckingTheCrops_TheField.md",
+    "DnD/z/MiscActions/BlackenedEarth_StoneCircle.md",
+    "DnD/z/MiscActions/StandingStones_StoneCircle.md",
+    "DnD/z/MiscActions/Roots_StoneCircle.md",
+    "DnD/z/MiscActions/Investigation_AwakenedTree.md",
+    "DnD/z/MiscActions/InspectionChecks_AnimalRing.md",
+    "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/5. Animal Ring.md",
+    "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/4. Hollow Oak.md",
+    "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/3. Overgrown Campsite.md",
+    "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/2. Sunken Spring.md",
+    "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/1. The Field.md",
+    "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Locations/Locations.md",
     "conflict-files-obsidian-git.md",
     "DnD/z/UniqueItems/WoodenPandant_HollowOak.md",
     "DnD/z/UniqueItems/Water_SunkenSpring.md",
-    "DnD/z/UniqueItems/StoneMarkings_SunkenSpring.md",
-    "DnD/z/UniqueItems/StoneBowl_HollowOak.md",
-    "DnD/z/UniqueItems/SmallAnimalHeart_TheField.md",
-    "DnD/z/UniqueItems/DriedHerbs_HollowOak.md",
-    "DnD/z/UniqueItems/Bark Carvings_HollowOak.md",
     "DnD/z/UniqueItems",
-    "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/1. The Field.md",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 2 - Summons/Scene 2b - Merchant Inventory.md",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 2 - Summons/Scene 2 - The Wandering Merchant.md",
-    "DnD/2. Lore/1. Age of the First Concord.md",
-    "DnD/z/MiscActions/CheckingTheCrops_TheField.md",
-    "DnD/0. DM Screen/0.DM Screen.md",
-    "Untitled.md",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 6 - Fight/Step 1b - Battle start Q&A.md",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 6 - Fight/Intro narrative.md",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 6 - Fight/Step 1 - Battle start.md",
     "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 6 - Fight",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 5 - Ritual Site/Step 4 - Devotion Paladin Approaches the Ninth Pillar.md",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 5 - Ritual Site/Step 2 - Novice Chants.md",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 5 - Ritual Site/Step 5 - Convergence.md",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 5 - Ritual Site/Quick DM Ritual Circle Skill Checks.md",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 5 - Ritual Site/Step 1.md",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 5 - Ritual Site/Quick DM Q&A Reference.md",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 5 - Ritual Site/Intro narrative.md",
     "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 5 - Ritual Site",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 4 - Village/Scene 1 - Q&A.md",
     "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 4 - Village",
     "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 3 - Journey",
     "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 2 - Summons",
