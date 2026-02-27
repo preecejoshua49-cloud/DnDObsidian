@@ -6,3 +6,5 @@
 > They do not yet notice you — their attention is elsewhere.
 
 Pause for player approach or dialogue initiation.
+
+[[Scene 6a - Entering the Temple Q&A]]
