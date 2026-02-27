@@ -166,32 +166,9 @@
               "icon": "diff",
               "title": "Diff: workspace.json  (Working Tree)"
             }
-          },
-          {
-            "id": "167f7a25d72060a4",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -516,7 +493,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "167f7a25d72060a4",
+  "active": "13d7abea8825b1f0",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "DnD/z/UniqueItems/WoodenPandant_HollowOak.md",
