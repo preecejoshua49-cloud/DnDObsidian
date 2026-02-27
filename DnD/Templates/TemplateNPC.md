@@ -11,7 +11,7 @@ NoteIcon: npc
 ---
 
 <% tp.file.title %>
-<% await tp.file.move("DnD/NPCs/" + tp.file.title) %>
+<% await tp.file.move("DnD/3. Resources/NPCs/" + tp.file.title) %>
 
 <%*
 const hasTitle = !tp.file.title.startsWith("NewNPC");
