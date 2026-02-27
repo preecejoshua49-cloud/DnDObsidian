@@ -18,7 +18,7 @@ A smirk.
 
  “Careful now. This one’s stronger than the first. I’d hate to see heroes bested by barley.”
 
-She sets the drink down with a deliberate clink.
+She sets the drink down.
 
 ## 🍻 Third Drink – Playful Warning
 
@@ -92,6 +92,14 @@ Skip to [[Scene 1 - The Letter]]
 | 4     | 14                | Drunk: disadvantage on Dex, Wis, and Int checks for 1 hour      | “The room tilts a little as the warmth grows; words slur slightly.”                |
 | 5     | 16                | Very drunk: disadvantage on Dex, Wis, Int, and Cha; may stumble | “You stagger dangerously; your vision blurs, and your thoughts feel thick.”        |
 | 6+    | Automatic fail    | Passed out: prone, cannot act for 1d4 rounds                    | “You collapse, tankard flying; the world spins into darkness.”                     |
+
+| Player | Drink # | Failed Drink |
+| ------ | ------- | ------------ |
+| Jack   |         |              |
+| Jord   |         |              |
+| Josh   |         |              |
+| Fletch |         |              |
+| Liv    |         |              |
 
 ## Drink costs
 - Ale 4cp

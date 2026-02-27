@@ -9,6 +9,119 @@
       "type": "folder",
       "ctime": 1771945102727,
       "path": "DnD/Campaigns/The Mystery of the Forest"
+    },
+    {
+      "type": "group",
+      "ctime": 1772222552491,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1772222552491,
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1772222552491,
+              "items": [
+                {
+                  "type": "group",
+                  "ctime": 1772222552491,
+                  "items": [
+                    {
+                      "type": "group",
+                      "ctime": 1772222552491,
+                      "items": [
+                        {
+                          "type": "file",
+                          "ctime": 1772222552491,
+                          "path": "DnD/z/Vendor Items/Armour/Armour - Legendary.md",
+                          "subpath": "#^-"
+                        },
+                        {
+                          "type": "file",
+                          "ctime": 1772222552491,
+                          "path": "DnD/z/Vendor Items/Armour/Armour - Rare.md",
+                          "subpath": "#^-"
+                        },
+                        {
+                          "type": "file",
+                          "ctime": 1772222552491,
+                          "path": "DnD/z/Vendor Items/Armour/Armour - Uncommon.md",
+                          "subpath": "#^-"
+                        },
+                        {
+                          "type": "file",
+                          "ctime": 1772222552491,
+                          "path": "DnD/z/Vendor Items/Armour/Armour - Very Rare.md",
+                          "subpath": "#^-"
+                        },
+                        {
+                          "type": "file",
+                          "ctime": 1772222840142,
+                          "path": "DnD/z/Vendor Items/Armour/sortspec.md",
+                          "subpath": "#^-"
+                        }
+                      ],
+                      "title": "Armour"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1772222886432,
+                      "items": [],
+                      "title": "Class Specific"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1772222886432,
+                      "items": [],
+                      "title": "Weapons"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1772222886432,
+                      "path": "DnD/z/Vendor Items/Supplies (Adventuring Gear).md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "file",
+                      "ctime": 1772222886432,
+                      "path": "DnD/z/Vendor Items/Trinkets.md",
+                      "subpath": "#^-"
+                    }
+                  ],
+                  "title": "\\\\Vendor Items"
+                }
+              ],
+              "title": "\\\\z"
+            }
+          ],
+          "title": "\\\\DnD"
+        }
+      ],
+      "title": "sortspec"
+    },
+    {
+      "type": "group",
+      "ctime": 1772222855792,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1772222851163,
+          "path": "DnD/z/Vendor Items/Armour/sortspec.md"
+        }
+      ],
+      "title": "February 27, 2026 8:07 PM"
+    },
+    {
+      "type": "group",
+      "ctime": 1772222970054,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1772222963574,
+          "path": "DnD/z/Vendor Items/Armour/sortspec.md"
+        }
+      ],
+      "title": "February 27, 2026 8:09 PM"
     }
   ]
 }

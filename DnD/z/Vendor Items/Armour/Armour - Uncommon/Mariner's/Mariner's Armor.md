@@ -1,0 +1,20 @@
+While wearing this armor, you have a [Swim Speed](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#SwimSpeed) equal to your [Speed](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Speed). In addition, if you start your turn underwater with 0 [Hit Points](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#HitPoints), you immediately regain 1d4 Hit Points. The armor can’t heal anyone again until the next dawn.
+
+The armor is decorated with fish and shell motifs.
+
+| Name                                                                                                  | Type   | AC                        | Strength | Stealth                                                                                      |
+| ----------------------------------------------------------------------------------------------------- | ------ | ------------------------- | -------- | -------------------------------------------------------------------------------------------- |
+| [Padded Armor](https://www.dndbeyond.com/magic-items/9228844-mariners-padded-armor)                   | Light  | 11 + Dex modifier         | -        | [Disadvantage](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Disadvantage) |
+| [Leather Armor](https://www.dndbeyond.com/magic-items/9228843-mariners-leather-armor)                 | Light  | 11 + Dex modifier         | -        | -                                                                                            |
+| [Studded Leather Armor](https://www.dndbeyond.com/magic-items/9228849-mariners-studded-leather-armor) | Light  | 12 + Dex modifier         | -        | -                                                                                            |
+| [Hide Armor](https://www.dndbeyond.com/magic-items/9228842-mariners-hide-armor)                       | Medium | 12 + Dex modifier (max 2) | -        | -                                                                                            |
+| [Chain Shirt](https://www.dndbeyond.com/magic-items/9228840-mariners-chain-shirt)                     | Medium | 13 + Dex modifier (max 2) | -        | -                                                                                            |
+| [Scale Mail](https://www.dndbeyond.com/magic-items/9228847-mariners-scale-mail)                       | Medium | 14 + Dex modifier (max 2) | -        | [Disadvantage](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Disadvantage) |
+| [Breastplate](https://www.dndbeyond.com/magic-items/9228838-mariners-breastplate)                     | Medium | 14 + Dex modifier (max 2) | -        | -                                                                                            |
+| [Half Plate Armor](https://www.dndbeyond.com/magic-items/9228841-mariners-half-plate-armor)           | Medium | 15 + Dex modifier (max 2) | -        | [Disadvantage](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Disadvantage) |
+| [Ring Mail](https://www.dndbeyond.com/magic-items/9228846-mariners-ring-mail)                         | Heavy  | 14                        | -        | [Disadvantage](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Disadvantage) |
+| [Chain Mail](https://www.dndbeyond.com/magic-items/9228839-mariners-chain-mail)                       | Heavy  | 16                        | Str 13   | [Disadvantage](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Disadvantage) |
+| [Splint Armor](https://www.dndbeyond.com/magic-items/9228848-mariners-splint-armor)                   | Heavy  | 17                        | Str 15   | [Disadvantage](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Disadvantage) |
+| [Plate Armor](https://www.dndbeyond.com/magic-items/9228845-mariners-plate-armor)                     | Heavy  | 18                        | Str 15   | [Disadvantage](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Disadvantage) |
+
+Notes: Bonus: Speed (Swimming)

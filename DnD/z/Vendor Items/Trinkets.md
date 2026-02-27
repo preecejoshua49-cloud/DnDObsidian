@@ -1,0 +1,11 @@
+- Signet ring – **5 gp**
+- Dice set (bone or wood) – **1 sp**
+- Playing cards – **5 sp**
+- Small spyglass – **1,000 gp**
+- Perfume vial – **5 gp**
+- Fine clothes – **15 gp**
+- Traveler’s clothes – **2 gp**
+- Holy symbol (wooden) – **5 gp**
+- Holy symbol (silver) – **25 gp**
+- Component pouch – **25 gp**
+- Arcane focus (crystal/orb/rod/wand) – **10–20 gp**

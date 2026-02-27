@@ -1,0 +1,19 @@
+
+- Backpack – **2 gp**
+- Bedroll – **1 gp**
+- Rations (1 day) – **5 sp**
+- Waterskin – **2 sp**
+- Rope, hempen (50 ft) – **1 gp**
+- Rope, silk (50 ft) – **10 gp**
+- Torches (10) – **1 sp**
+- Lantern, hooded – **5 gp**
+- Oil (flask) – **1 sp**
+- Tinderbox – **5 sp**
+- Grappling hook – **2 gp**
+- Crowbar – **2 gp**
+- Healer’s kit – **5 gp**
+- Potion of Healing – **50 gp**
+- Antitoxin – **50 gp**
+- Thieves’ tools – **25 gp**
+- Herbalism kit – **5 gp**
+- Potion of Healing - **50 gp**
