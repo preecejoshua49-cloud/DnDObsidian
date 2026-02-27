@@ -4,56 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "2ddf7fdde98eb5d6",
+        "id": "1ebe186a47390d01",
         "type": "tabs",
         "children": [
           {
-            "id": "988744c66cfb9b65",
+            "id": "22db840fb8767063",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Bernard",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/NPCs/Bernard.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Bernard\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":0}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
                 },
                 {
-                  "title": "The Pattern of the Predator",
+                  "title": "Bernard",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 3 - The Hunt/Locations/The Pattern of the Predator.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Pattern of the Predator\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":48,\"ch\":100},\"to\":{\"line\":48,\"ch\":100}},\"scroll\":29.716796875}"
-                },
-                {
-                  "title": "Scene 3 - Drinking",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3 - Drinking.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3 - Drinking\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":102,\"ch\":0},\"to\":{\"line\":102,\"ch\":0}},\"scroll\":75.58333333333333}"
-                },
-                {
-                  "title": "Chapter 1 - Tavern",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Chapter 1 - Tavern.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Chapter 1 - Tavern\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "The Pattern of the Predator",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 3 - The Hunt/Locations/The Pattern of the Predator.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Pattern of the Predator\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":46,\"ch\":0},\"to\":{\"line\":46,\"ch\":0}},\"scroll\":26.130078125}"
-                },
-                {
-                  "title": "0.DM Screen",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/0. DM Screen/0.DM Screen.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"0.DM Screen\"}",
-                  "eState": "{}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/NPCs/Bernard.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Bernard\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "DnD/Campaigns/The Mystery of the Forest/Act 3 - The Hunt/Locations/The Pattern of the Predator.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Pattern of the Predator"
             }
           }
         ]
@@ -401,14 +387,19 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "988744c66cfb9b65",
+  "active": "22db840fb8767063",
   "lastOpenFiles": [
+    "DnD/z/NPCs/Bernard.md",
     "DnD/Campaigns/The Mystery of the Forest/Act 3 - The Hunt/Locations/The Pattern of the Predator.md",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3 - Drinking.md",
+    "DnD/0. DM Screen/0.DM Screen.md",
+    "DnD/z/NPCs/Harlan Thatch.md",
+    "DnD/z/MiscActions/TheSpiralStones_HanburyWoods.md",
     "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Chapter 1 - Tavern.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 2 - Tavern and Josh intro.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 1 - Arrival.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3 - Drinking.md",
     "DnD/Campaigns/The Mystery of the Forest/Act 3 - The Hunt/Locations/Untitled 1.md",
     "DnD/Campaigns/The Mystery of the Forest/Act 3 - The Hunt/Locations/Locations.md",
-    "DnD/0. DM Screen/0.DM Screen.md",
     "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Locations/Locations.md",
     "DnD/Campaigns/The Mystery of the Forest/Act 2 - The Curious Caverns/Locations/Locations.md",
     "DnD/Campaigns/The Mystery of the Forest/Act 2 - The Curious Caverns/Scenes/5. The Hollowed Guardian.md",
@@ -425,12 +416,6 @@
     "DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury Village.md",
     "DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury.md",
     "DnD/1. World/Britannia/Worcestershire/Worcestershire.md",
-    "DnD/1. World/Britannia/Britannia.md",
-    "conflict-files-obsidian-git.md",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 2/Chapter 2 - Summons.md",
-    "DnD/Templates/TemplateChapter.md",
-    "DnD/Templates/TemplateNPC.md",
-    "DnD/Templates/TemplateMagicalItem.md",
     "DnD/z/Images/image-1 1.png",
     "DnD/z/Images/image 1.png",
     "DnD/z/Items/PlayerItems/MagicItems/Wonderous Items/Uncommon",
