@@ -130,15 +130,68 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "DnD/0. DM Screen/0.DM Screen.md",
-                "bFile": "DnD/0. DM Screen/0.DM Screen.md",
+                "aFile": ".obsidian/graph.json",
+                "bFile": ".obsidian/graph.json",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: 0.DM Screen  (Working Tree)"
+              "title": "Diff: graph.json  (Working Tree)"
+            }
+          },
+          {
+            "id": "13d7abea8825b1f0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "conflict-files-obsidian-git",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"conflict-files-obsidian-git\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
+            }
+          },
+          {
+            "id": "167f7a25d72060a4",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -463,8 +516,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2c67234dca5b7a2a",
+  "active": "167f7a25d72060a4",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "DnD/z/UniqueItems/WoodenPandant_HollowOak.md",
+    "DnD/z/UniqueItems/Water_SunkenSpring.md",
+    "DnD/z/UniqueItems/StoneMarkings_SunkenSpring.md",
+    "DnD/z/UniqueItems/StoneBowl_HollowOak.md",
+    "DnD/z/UniqueItems/SmallAnimalHeart_TheField.md",
+    "DnD/z/UniqueItems/DriedHerbs_HollowOak.md",
+    "DnD/z/UniqueItems/Bark Carvings_HollowOak.md",
+    "DnD/z/UniqueItems",
     "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/1. The Field.md",
     "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 2 - Summons/Scene 2b - Merchant Inventory.md",
     "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 2 - Summons/Scene 2 - The Wandering Merchant.md",
@@ -485,22 +547,13 @@
     "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 5 - Ritual Site/Intro narrative.md",
     "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 5 - Ritual Site",
     "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 4 - Village/Scene 1 - Q&A.md",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 4 - Village/Intro.md",
     "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 4 - Village",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 3 - Journey/Scene 6a - The Problem Q&A.md",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 3 - Journey/Scene 6 - The Problem.md",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 3 - Journey/Scene 4a - The Temple of the Eight Arrival Q&A.md",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 3 - Journey/Scene 5a - Entering the Temple Q&A.md",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 3 - Journey/Scene 5 - Entering the Temple.md",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 3 - Journey/Scene 4 - The Temple of the Eight Arrival.md",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 3 - Journey/Scene 3a - Wolves Fight.md",
     "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 3 - Journey",
     "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 2 - Summons",
     "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 1 - Tavern",
     "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes",
     "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 6 - Fight",
     "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 5 - Ritual Site",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 4 - Village",
     "DnD/z/Images/The Root Shepherd face.jpg",
     "DnD/z/Images/Hanbury Caverns.png",
     "DnD/z/Images/widget.jpeg",
