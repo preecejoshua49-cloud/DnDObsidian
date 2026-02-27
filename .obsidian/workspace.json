@@ -374,7 +374,7 @@
                 {
                   "title": "Scene 4 - Rising Tensions",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 4 - Rising Tensions.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 4 - Rising Tensions\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3 - Rising Tensions.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 4 - Rising Tensions\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -428,6 +428,702 @@
               "stack": [
                 {
                   "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Scene 3 - Drinking",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3 - Drinking.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3 - Drinking\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":98,\"ch\":16},\"to\":{\"line\":98,\"ch\":16}},\"scroll\":69.5}"
+                },
+                {
+                  "title": "Scene 3 - Rising Tensions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3 - Rising Tensions.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3 - Rising Tensions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 4a  - Tavern brawl sober",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 4a  - Tavern brawl sober.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 4a  - Tavern brawl sober\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":79},\"to\":{\"line\":33,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Scene 3 - Drinking",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3 - Drinking.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3 - Drinking\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":79,\"ch\":35},\"to\":{\"line\":79,\"ch\":35}},\"scroll\":47.75}"
+                },
+                {
+                  "title": "Scene 2 - Tavern and Josh intro",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 2 - Tavern and Josh intro.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 2 - Tavern and Josh intro\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":0},\"to\":{\"line\":2,\"ch\":0}}}"
+                },
+                {
+                  "title": "Chapter 1 - Tavern",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Chapter 1 - Tavern.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Chapter 1 - Tavern\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 3 - Rising Tensions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3 - Rising Tensions.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3 - Rising Tensions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Scene 3b - Rising Tension Drunk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3b - Rising Tension Drunk.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3b - Rising Tension Drunk\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":8.083333333333334}"
+                },
+                {
+                  "title": "Chapter 1 - Tavern",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Chapter 1 - Tavern.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Chapter 1 - Tavern\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Scene 4b  - Tavern brawl Drunk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 4b  - Tavern brawl Drunk.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 4b  - Tavern brawl Drunk\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":7.583333333333333}"
+                },
+                {
+                  "title": "Scene 4a  - Tavern brawl sober",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 4a  - Tavern brawl sober.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 4a  - Tavern brawl sober\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Scene 3b - Rising Tension Drunk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3b - Rising Tension Drunk.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3b - Rising Tension Drunk\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":19.25925925925926}"
+                },
+                {
+                  "title": "Scene 3a - Rising Tension Sober",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3a - Rising Tension Sober.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3a - Rising Tension Sober\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":8.083333333333334}"
+                },
+                {
+                  "title": "Scene 3 - Rising Tensions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3 - Rising Tensions.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3 - Rising Tensions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 3 - Drinking",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3 - Drinking.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3 - Drinking\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 2 - Tavern and Josh intro",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 2 - Tavern and Josh intro.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 2 - Tavern and Josh intro\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 1 - Arrival",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 1 - Arrival.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 1 - Arrival\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 4a  - Tavern brawl sober",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 4a  - Tavern brawl sober.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 4a  - Tavern brawl sober\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Scene 4b  - Tavern brawl Drunk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 4b  - Tavern brawl Drunk.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 4b  - Tavern brawl Drunk\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}},\"scroll\":7.583333333333333}"
+                },
+                {
+                  "title": "Scene 4a  - Tavern brawl sober",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 4a  - Tavern brawl sober.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 4a  - Tavern brawl sober\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Scene 4b  - Tavern brawl Drunk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 4b  - Tavern brawl Drunk.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 4b  - Tavern brawl Drunk\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":47,\"ch\":79},\"to\":{\"line\":47,\"ch\":0}},\"scroll\":7.583333333333333}"
+                },
+                {
+                  "title": "Scene 4a  - Tavern brawl sober",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 4a  - Tavern brawl sober.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 4a  - Tavern brawl sober\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":10},\"to\":{\"line\":35,\"ch\":10}}}"
+                },
+                {
+                  "title": "Scene 3b - Rising Tension Drunk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3b - Rising Tension Drunk.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3b - Rising Tension Drunk\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":18},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 4a  - Tavern brawl sober",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 4a  - Tavern brawl sober.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 4a  - Tavern brawl sober\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Scene 4b  - Tavern brawl Drunk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 4b  - Tavern brawl Drunk.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 4b  - Tavern brawl Drunk\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":60},\"to\":{\"line\":33,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 4a  - Tavern brawl sober",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 4a  - Tavern brawl sober.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 4a  - Tavern brawl sober\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 4b  - Tavern brawl Drunk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 4b  - Tavern brawl Drunk.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 4b  - Tavern brawl Drunk\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":47},\"to\":{\"line\":31,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 4a  - Tavern brawl sober",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 4a  - Tavern brawl sober.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 4a  - Tavern brawl sober\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":0},\"to\":{\"line\":26,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 3b - Rising Tension Drunk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3b - Rising Tension Drunk.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3b - Rising Tension Drunk\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 3a - Rising Tension Sober",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3a - Rising Tension Sober.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3a - Rising Tension Sober\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 3 - Rising Tensions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3 - Rising Tensions.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3 - Rising Tensions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 3 - Drinking",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3 - Drinking.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3 - Drinking\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 3 - Rising Tensions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3 - Rising Tensions.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3 - Rising Tensions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 3 - Drinking",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3 - Drinking.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3 - Drinking\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 2 - Tavern and Josh intro",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 2 - Tavern and Josh intro.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 2 - Tavern and Josh intro\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 1 - Arrival",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 1 - Arrival.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 1 - Arrival\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Player List",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/1. The Party/Player List.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Player List\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Scene 4b  - Tavern brawl Drunk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 4b  - Tavern brawl Drunk.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 4b  - Tavern brawl Drunk\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":47,\"ch\":78},\"to\":{\"line\":47,\"ch\":78}},\"scroll\":7.583333333333333}"
+                },
+                {
+                  "title": "Scene 4a  - Tavern brawl sober",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 4a  - Tavern brawl sober.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 4a  - Tavern brawl sober\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":11.303819444444445}"
+                },
+                {
+                  "title": "Scene 3b - Rising Tension Drunk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3b - Rising Tension Drunk.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3b - Rising Tension Drunk\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":18},\"to\":{\"line\":0,\"ch\":18}}}"
+                },
+                {
+                  "title": "Scene 3a - Rising Tension Sober",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3a - Rising Tension Sober.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3a - Rising Tension Sober\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":18},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 3b - Rising Tension Drunk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3b - Rising Tension Drunk.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3b - Rising Tension Drunk\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 4a  - Tavern brawl sober",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 4a  - Tavern brawl sober.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 4a  - Tavern brawl sober\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 4b  - Tavern brawl Drunk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 4b  - Tavern brawl Drunk.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 4b  - Tavern brawl Drunk\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":0},\"to\":{\"line\":29,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Scene 4a  - Tavern brawl sober",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 4a  - Tavern brawl sober.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 4a  - Tavern brawl sober\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Scene 3b - Rising Tension Drunk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3b - Rising Tension Drunk.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3b - Rising Tension Drunk\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":44,\"ch\":0},\"to\":{\"line\":44,\"ch\":0}},\"scroll\":23.208333333333332}"
+                },
+                {
+                  "title": "Scene 3a - Rising Tension Sober",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3a - Rising Tension Sober.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3a - Rising Tension Sober\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.7692307692307693}"
+                },
+                {
+                  "title": "Scene 3b - Rising Tension Drunk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3b - Rising Tension Drunk.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3b - Rising Tension Drunk\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 3a - Rising Tension Sober",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3a - Rising Tension Sober.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3a - Rising Tension Sober\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":10},\"to\":{\"line\":33,\"ch\":2}},\"scroll\":0}"
+                },
+                {
+                  "title": "Scene 3b - Rising Tension Drunk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3b - Rising Tension Drunk.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3b - Rising Tension Drunk\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":44,\"ch\":2},\"to\":{\"line\":44,\"ch\":2}},\"scroll\":15.666666666666666}"
+                },
+                {
+                  "title": "Scene 3a - Rising Tension Sober",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3a - Rising Tension Sober.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3a - Rising Tension Sober\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":0},\"to\":{\"line\":26,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 3b - Rising Tension Drunk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3b - Rising Tension Drunk.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3b - Rising Tension Drunk\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 3a - Rising Tension Sober",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3a - Rising Tension Sober.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3a - Rising Tension Sober\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":12},\"to\":{\"line\":18,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 3b - Rising Tension Drunk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3b - Rising Tension Drunk.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3b - Rising Tension Drunk\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":0},\"to\":{\"line\":32,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 3a - Rising Tension Sober",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3a - Rising Tension Sober.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3a - Rising Tension Sober\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 3b - Rising Tension Drunk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3b - Rising Tension Drunk.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3b - Rising Tension Drunk\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 4a  - Tavern brawl sober",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 4a  - Tavern brawl sober.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 4a  - Tavern brawl sober\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 3b - Rising Tension Drunk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3b - Rising Tension Drunk.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3b - Rising Tension Drunk\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 3a - Rising Tension Sober",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3a - Rising Tension Sober.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3a - Rising Tension Sober\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Scene 3b - Rising Tension Drunk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3b - Rising Tension Drunk.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3b - Rising Tension Drunk\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":58,\"ch\":34},\"to\":{\"line\":58,\"ch\":34}},\"scroll\":3.9166666666666665}"
+                },
+                {
+                  "title": "Scene 3a - Rising Tension Sober",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3a - Rising Tension Sober.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3a - Rising Tension Sober\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":37,\"ch\":0},\"to\":{\"line\":37,\"ch\":0}},\"scroll\":0.7692307692307693}"
+                },
+                {
+                  "title": "Scene 3b - Rising Tension Drunk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3b - Rising Tension Drunk.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3b - Rising Tension Drunk\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":58,\"ch\":34},\"to\":{\"line\":55,\"ch\":0}},\"scroll\":14.375}"
+                },
+                {
+                  "title": "Scene 3a - Rising Tension Sober",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3a - Rising Tension Sober.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3a - Rising Tension Sober\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 3 - Rising Tensions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3 - Rising Tensions.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3 - Rising Tensions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 3a - Rising Tension Sober",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3a - Rising Tension Sober.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3a - Rising Tension Sober\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":23},\"to\":{\"line\":15,\"ch\":23}}}"
+                },
+                {
+                  "title": "Scene 3b - Rising Tension Drunk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3b - Rising Tension Drunk.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3b - Rising Tension Drunk\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 3a - Rising Tension Sober",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3a - Rising Tension Sober.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3a - Rising Tension Sober\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 3 - Rising Tensions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3 - Rising Tensions.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3 - Rising Tensions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 2 - Tavern and Josh intro",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 2 - Tavern and Josh intro.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 2 - Tavern and Josh intro\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 3 - Rising Tensions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3 - Rising Tensions.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3 - Rising Tensions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 3a - Rising Tension Sober",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3a - Rising Tension Sober.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3a - Rising Tension Sober\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":2},\"to\":{\"line\":6,\"ch\":2}}}"
+                },
+                {
+                  "title": "Scene 3 - Rising Tensions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3 - Rising Tensions.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3 - Rising Tensions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":35},\"to\":{\"line\":4,\"ch\":35}}}"
+                },
+                {
+                  "title": "Scene 2 - Tavern and Josh intro",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 2 - Tavern and Josh intro.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 2 - Tavern and Josh intro\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":18},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 3 - Drinking",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3 - Drinking.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3 - Drinking\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 3 - Rising Tensions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3 - Rising Tensions.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3 - Rising Tensions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 3a - Rising Tension Sober",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3a - Rising Tension Sober.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3a - Rising Tension Sober\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Scene 4a  - Tavern brawl sober",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 4a  - Tavern brawl sober.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 4a  - Tavern brawl sober\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 4b  - Tavern brawl Drunk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 4b  - Tavern brawl Drunk.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 4b  - Tavern brawl Drunk\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 4a  - Tavern brawl sober",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 4a  - Tavern brawl sober.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 4a  - Tavern brawl\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Scene 3b - Rising Tension Drunk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3b - Rising Tension Drunk.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3b - Rising Tension Drunk\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":28.37037037037037}"
+                },
+                {
+                  "title": "Scene 4a  - Tavern brawl sober",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 4a  - Tavern brawl sober.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 4a  - Tavern brawl\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 4b  - Tavern brawl Drunk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 4b  - Tavern brawl Drunk.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 4b  - Tavern brawl\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 4a  - Tavern brawl sober",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 4a  - Tavern brawl sober.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 4a  - Tavern brawl\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 3a - Rising Tension Sober",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3a - Rising Tension Sober.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3a - Rising Tension Sober\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 3 - Rising Tensions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3 - Rising Tensions.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3 - Rising Tensions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 3b - Rising Tension Drunk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3b - Rising Tension Drunk.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3b - Rising Tension Drunk\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 3a - Rising Tension Sober",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3a - Rising Tension Sober.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3a - Rising Tension Sober\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 3 - Rising Tensions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3 - Rising Tensions.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3 - Rising Tensions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 4a  - Tavern brawl sober",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 4a  - Tavern brawl sober.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3a 1 - Tavern brawl\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 4b  - Tavern brawl Drunk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 4b  - Tavern brawl Drunk.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3b 1 - Tavern brawl\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 3a - Rising Tension Sober",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3a - Rising Tension Sober.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 4a - Rising Tension Sober\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 3 - Rising Tensions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3 - Rising Tensions.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 4 - Rising Tensions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":35},\"to\":{\"line\":4,\"ch\":35}}}"
+                },
+                {
+                  "title": "Scene 3b - Rising Tension Drunk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3b - Rising Tension Drunk.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 4b - Rising Tension Drunk\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":13},\"to\":{\"line\":0,\"ch\":13}}}"
+                },
+                {
+                  "title": "Scene 3 - Rising Tensions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3 - Rising Tensions.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 4 - Rising Tensions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":21},\"to\":{\"line\":0,\"ch\":21}}}"
+                },
+                {
+                  "title": "Scene 3a - Rising Tension Sober",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3a - Rising Tension Sober.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 4a - Rising Tension Sober\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 3b - Rising Tension Drunk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3b - Rising Tension Drunk.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 4b - Rising Tension Drunk\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 3a - Rising Tension Sober",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3a - Rising Tension Sober.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 4a - Rising Tension Sober\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":13},\"to\":{\"line\":0,\"ch\":8}}}"
+                },
+                {
+                  "title": "Scene 4b  - Tavern brawl Drunk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 4b  - Tavern brawl Drunk.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3b 1 - Tavern brawl\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 4a  - Tavern brawl sober",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 4a  - Tavern brawl sober.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3a 1 - Tavern brawl\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":4},\"to\":{\"line\":12,\"ch\":4}},\"scroll\":0}"
+                },
+                {
+                  "title": "Scene 3 - Drinking",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3 - Drinking.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3 - Drinking\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 2 - Tavern and Josh intro",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 2 - Tavern and Josh intro.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 2 - Tavern and Josh intro\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 1 - Arrival",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 1 - Arrival.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 1 - Arrival\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "6. Stone Circle",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/6. Stone Circle.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"6. Stone Circle\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "5. Animal Ring",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/5. Animal Ring.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"5. Animal Ring\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "4. Hollow Oak",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/4. Hollow Oak.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"4. Hollow Oak\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "3. Overgrown Campsite",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/3. Overgrown Campsite.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"3. Overgrown Campsite\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "2. Sunken Spring",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/2. Sunken Spring.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"2. Sunken Spring\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "1. The Field",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/1. The Field.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"1. The Field\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 3 - Rising Tensions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3 - Rising Tensions.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 4 - Rising Tensions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 4b  - Tavern brawl Drunk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 4b  - Tavern brawl Drunk.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3b 1 - Tavern brawl\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 4a  - Tavern brawl sober",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 4a  - Tavern brawl sober.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3a 1 - Tavern brawl\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 3 - Drinking",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3 - Drinking.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3 - Drinking\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 2 - Tavern and Josh intro",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 2 - Tavern and Josh intro.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 2 - Tavern and Josh intro\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 1 - Arrival",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 1 - Arrival.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 1 - Arrival\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":18},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 3 - Rising Tensions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3 - Rising Tensions.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 4 - Rising Tensions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":2},\"to\":{\"line\":3,\"ch\":2}}}"
+                },
+                {
+                  "title": "Diff: 6. Age of Endless Skies  (Working Tree)",
+                  "icon": "diff",
+                  "state": "{\"type\":\"split-diff-view\",\"state\":{\"aFile\":\"DnD/2. Lore/6. Age of Endless Skies.md\",\"bFile\":\"DnD/2. Lore/6. Age of Endless Skies.md\",\"aRef\":\"\"},\"icon\":\"diff\",\"title\":\"Diff: 6. Age of Endless Skies  (Working Tree)\"}",
                   "eState": "{}"
                 },
                 {
@@ -525,12 +1221,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "DnD/2. Lore/6. Age of Endless Skies.md",
-                "bFile": "DnD/2. Lore/6. Age of Endless Skies.md",
+                "aFile": ".obsidian/plugins/various-complements/histories.json",
+                "bFile": ".obsidian/plugins/various-complements/histories.json",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: 6. Age of Endless Skies  (Working Tree)"
+              "title": "Diff: histories.json  (Working Tree)"
             }
           }
         ],
@@ -862,32 +1558,32 @@
   },
   "active": "82cc770ebc731731",
   "lastOpenFiles": [
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3 - Drinking.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3 - Rising Tensions.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 4a  - Tavern brawl sober.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 2 - Tavern and Josh intro.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Chapter 1 - Tavern.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3b - Rising Tension Drunk.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 4b  - Tavern brawl Drunk.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3a - Rising Tension Sober.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 1 - Arrival.md",
+    "DnD/1. The Party/Player List.md",
+    "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/6. Stone Circle.md",
+    "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/5. Animal Ring.md",
+    "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/4. Hollow Oak.md",
+    "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/3. Overgrown Campsite.md",
+    "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/2. Sunken Spring.md",
+    "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/1. The Field.md",
     "DnD/1. The Party/Obasi.md",
     "DnD/2. Lore/Paladin Oaths.md",
     "DnD/2. Lore/6. Age of Endless Skies.md",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Chapter 1 - Tavern.md",
     "DnD/2. Lore/5. Third Age of Harmony.md",
     "DnD/2. Lore/4. Second Age of Twilight.md",
     "DnD/2. Lore/3. Age of Verdant Reaches.md",
     "DnD/2. Lore/1. Age of the First Concord.md",
     "DnD/1. World/Britannia/Britannia.md",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 2 - Tavern and Josh intro.md",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3 - Drinking.md",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 1 - Arrival.md",
     "DnD/z/UniqueItems/WoodenPandant_HollowOak.md",
-    "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/4. Hollow Oak.md",
     "DnD/Campaigns/The Mystery of the Forest/Act 2 - The Curious Caverns/Scenes/4. The Living Mycelium Bridge.md",
-    "DnD/Campaigns/The Mystery of the Forest/Act 2 - The Curious Caverns/Scenes/8. The Treasure Room.md",
-    "DnD/3. Resources/Magical Items/Sigil of the Shadowed Oath.md",
-    "DnD/Campaigns/The Mystery of the Forest/Act 2 - The Curious Caverns/Scenes/7. The Gladiator Ring.md",
-    "DnD/Campaigns/The Mystery of the Forest/Act 2 - The Curious Caverns/Scenes/6. The Spore Cathedral.md",
-    "DnD/Campaigns/The Mystery of the Forest/Act 2 - The Curious Caverns/Scenes/1. Trap Rooms/Widget Trap Room.md",
-    "DnD/Campaigns/The Mystery of the Forest/Act 2 - The Curious Caverns/Scenes/1. Trap Rooms/Obasi Trap Room.md",
-    "DnD/Templates/TemplateNPC.md",
-    "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Locations/Locations.md",
-    "DnD/Templates/TemplateScene.md",
-    "Untitled.md",
-    "DnD/Templates/TemplateSettlement.md",
     "image.png",
     "image-1.png",
     "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes",

@@ -11,7 +11,7 @@ Introduction to [[JoshCharacter]]
 [[Scene 1 - Arrival]]
 [[Scene 2 - Tavern and Josh intro]]
 [[Scene 3 - Drinking]]
-[[Scene 4 - Rising Tensions]]
+[[Scene 3 - Rising Tensions]]
 
 ## DM Objectives
 Reduce player currency to equal amounts
