@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "68bc0e810c49bdc1",
+        "id": "9ba610a40c8a0e8e",
         "type": "tabs",
         "children": [
           {
-            "id": "40ad1b850b552cf4",
+            "id": "acfa7e0420f1fff9",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,48 +18,6 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "TemplateScene",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Templates/TemplateScene.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TemplateScene\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":15},\"to\":{\"line\":9,\"ch\":15}},\"scroll\":0}"
-                },
-                {
-                  "title": "Scene 3a - Rising Tension Sober",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 1 - Tavern/Scene 3a - Rising Tension Sober.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3a - Rising Tension Sober\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "1. Village",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/1. Village.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"1. Village\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "TemplateCharacter",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Templates/TemplateCharacter.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TemplateCharacter\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":0},\"to\":{\"line\":23,\"ch\":0}}}"
-                },
-                {
-                  "title": "TemplateMagicalItem",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Templates/TemplateMagicalItem.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TemplateMagicalItem\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
-                },
-                {
-                  "title": "TemplateNPC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Templates/TemplateNPC.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TemplateNPC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
-                },
-                {
-                  "title": "TemplateScene",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Templates/TemplateScene.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TemplateScene\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
                   "title": "TemplateSettlement",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Templates/TemplateSettlement.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TemplateSettlement\"}",
@@ -69,157 +27,223 @@
                   "title": "TemplateScene",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Templates/TemplateScene.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TemplateScene\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":0},\"to\":{\"line\":20,\"ch\":0}},\"scroll\":0}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "1. Village",
+                  "title": "TemplateNPC",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/1. Village.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"1. Village\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Templates/TemplateNPC.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TemplateNPC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+                },
+                {
+                  "title": "TemplateMagicalItem",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Templates/TemplateMagicalItem.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TemplateMagicalItem\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "TemplateCharacter",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Templates/TemplateCharacter.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TemplateCharacter\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":0},\"to\":{\"line\":23,\"ch\":0}},\"scroll\":18.598382749326145}"
+                },
+                {
+                  "title": "TemplateChapter",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Templates/TemplateChapter.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TemplateChapter\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 1 - Arrival",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 1 - Arrival.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 1 - Arrival\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "TemplateReadAloud",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Templates/TemplateReadAloud.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TemplateReadAloud\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":0},\"to\":{\"line\":2,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 1 - Arrival",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 1 - Arrival.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 1 - Arrival\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":36},\"to\":{\"line\":5,\"ch\":36}}}"
+                },
+                {
+                  "title": "Scene 2 - Tavern and Josh intro",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 2 - Tavern and Josh intro.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 2 - Tavern and Josh intro\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "TemplateReadAloud",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Templates/TemplateReadAloud.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TemplateReadAloud\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":2},\"to\":{\"line\":4,\"ch\":2}}}"
+                },
+                {
+                  "title": "Scene 1 - Arrival",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 1 - Arrival.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 1 - Arrival\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":36},\"to\":{\"line\":5,\"ch\":36}}}"
+                },
+                {
+                  "title": "TemplateReadAloud",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Templates/TemplateReadAloud.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TemplateReadAloud\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":8},\"to\":{\"line\":1,\"ch\":8}}}"
+                },
+                {
+                  "title": "Scene 1 - Arrival",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 1 - Arrival.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 1 - Arrival\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":36},\"to\":{\"line\":5,\"ch\":36}}}"
+                },
+                {
+                  "title": "TemplateReadAloud",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Templates/TemplateReadAloud.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TemplateReadAloud\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 1 - Arrival",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 1 - Arrival.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 1 - Arrival\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":36},\"to\":{\"line\":3,\"ch\":36}}}"
+                },
+                {
+                  "title": "TemplateReadAloud",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Templates/TemplateReadAloud.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TemplateReadAloud\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 1 - Arrival",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 1 - Arrival.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 1 - Arrival\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":42},\"to\":{\"line\":0,\"ch\":42}}}"
+                },
+                {
+                  "title": "TemplateReadAloud",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Templates/TemplateReadAloud.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TemplateReadAloud\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 1 - Arrival",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 1 - Arrival.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 1 - Arrival\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":36},\"to\":{\"line\":3,\"ch\":36}}}"
+                },
+                {
+                  "title": "TemplateReadAloud",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Templates/TemplateReadAloud.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TemplateReadAloud\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":5},\"to\":{\"line\":0,\"ch\":5}}}"
+                },
+                {
+                  "title": "Scene 1 - Arrival",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 1 - Arrival.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 1 - Arrival\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "TemplateReadAloud",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Templates/TemplateReadAloud.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TemplateReadAloud\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 1 - Arrival",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 1 - Arrival.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 1 - Arrival\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":36},\"to\":{\"line\":3,\"ch\":36}}}"
+                },
+                {
+                  "title": "TemplateReadAloud",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Templates/TemplateReadAloud.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TemplateReadAloud\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":5},\"to\":{\"line\":0,\"ch\":5}}}"
+                },
+                {
+                  "title": "TemplateNPC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Templates/TemplateNPC.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TemplateNPC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+                },
+                {
+                  "title": "TemplateReadAloud",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Templates/TemplateReadAloud.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TemplateReadAloud\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":2},\"to\":{\"line\":0,\"ch\":2}}}"
+                },
+                {
+                  "title": "TemplateChapter",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Templates/TemplateChapter.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TemplateChapter\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 1 - Arrival",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 1 - Arrival.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 1 - Arrival\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "TemplateScene",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Templates/TemplateScene.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TemplateScene\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":3.9166666666666665}"
                 },
                 {
-                  "title": "Diff: TemplateSettlement  (Working Tree)",
-                  "icon": "diff",
-                  "state": "{\"type\":\"split-diff-view\",\"state\":{\"aFile\":\"DnD/Templates/TemplateSettlement.md\",\"bFile\":\"DnD/Templates/TemplateSettlement.md\",\"aRef\":\"\"},\"icon\":\"diff\",\"title\":\"Diff: TemplateSettlement  (Working Tree)\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "TemplateScene",
+                  "title": "Scene 4 - Rising Tensions",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Templates/TemplateScene.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TemplateScene\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 4 - Rising Tensions.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 4 - Rising Tensions\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "TemplateNPC",
+                  "title": "Chapter 1 - Tavern",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Templates/TemplateNPC.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TemplateNPC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
-                },
-                {
-                  "title": "TemplateScene",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Templates/TemplateScene.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TemplateScene\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":11},\"to\":{\"line\":16,\"ch\":11}}}"
-                },
-                {
-                  "title": "TemplateNPC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Templates/TemplateNPC.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TemplateNPC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
-                },
-                {
-                  "title": "TemplateScene",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Templates/TemplateScene.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TemplateScene\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":15},\"to\":{\"line\":0,\"ch\":15}}}"
-                },
-                {
-                  "title": "TemplateNPC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Templates/TemplateNPC.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TemplateNPC\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "TemplateSettlement",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Templates/TemplateSettlement.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TemplateSettlement\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":0},\"to\":{\"line\":29,\"ch\":0}}}"
-                },
-                {
-                  "title": "TemplateScene",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Templates/TemplateScene.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Chapter 1 - Tavern.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Chapter 1 - Tavern\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "TemplateSettlement",
+                  "title": "Scene 1 - Arrival",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Templates/TemplateSettlement.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TemplateSettlement\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":0},\"to\":{\"line\":29,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 1 - Arrival.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 1 - Arrival\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "TemplateScene",
+                  "title": "Chapter 1 - Tavern",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Templates/TemplateScene.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":48,\"ch\":11},\"to\":{\"line\":48,\"ch\":11}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Chapter 1 - Tavern.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Chapter 1 - Tavern\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "1. Village",
+                  "title": "Scene 1 - Arrival",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/1. Village.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"1. Village\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":18.902901785714285}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 1 - Arrival.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 1 - Arrival\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Diff: workspace.json  (Working Tree)",
-                  "icon": "diff",
-                  "state": "{\"type\":\"split-diff-view\",\"state\":{\"aFile\":\".obsidian/workspace.json\",\"bFile\":\".obsidian/workspace.json\",\"aRef\":\"\"},\"icon\":\"diff\",\"title\":\"Diff: workspace.json  (Working Tree)\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "TemplateScene",
+                  "title": "Chapter 1 - Tavern",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Templates/TemplateScene.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TemplateScene\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
-                },
-                {
-                  "title": "TemplateNPC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Templates/TemplateNPC.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TemplateNPC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
-                },
-                {
-                  "title": "TemplateSettlement",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Templates/TemplateSettlement.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TemplateSettlement\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":0},\"to\":{\"line\":29,\"ch\":0}}}"
-                },
-                {
-                  "title": "TemplateNPC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Templates/TemplateNPC.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TemplateNPC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
-                },
-                {
-                  "title": "TemplateMagicalItem",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Templates/TemplateMagicalItem.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TemplateMagicalItem\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
-                },
-                {
-                  "title": "TemplateCharacter",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Templates/TemplateCharacter.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TemplateCharacter\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":0},\"to\":{\"line\":23,\"ch\":0}}}"
-                },
-                {
-                  "title": "TemplateSettlement",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Templates/TemplateSettlement.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TemplateSettlement\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":0},\"to\":{\"line\":29,\"ch\":0}}}"
-                },
-                {
-                  "title": "Diff: workspace.json  (Working Tree)",
-                  "icon": "diff",
-                  "state": "{\"type\":\"split-diff-view\",\"state\":{\"aFile\":\".obsidian/workspace.json\",\"bFile\":\".obsidian/workspace.json\",\"aRef\":\"\"},\"icon\":\"diff\",\"title\":\"Diff: workspace.json  (Working Tree)\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "conflict-files-obsidian-git",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"conflict-files-obsidian-git\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Chapter 1 - Tavern.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Chapter 1 - Tavern\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "DnD/Templates/TemplateCharacter.md",
-                "bFile": "DnD/Templates/TemplateCharacter.md",
-                "aRef": ""
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: TemplateCharacter  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -548,43 +572,45 @@
       "password-protection:Lock password protection": false
     }
   },
-  "active": "40ad1b850b552cf4",
+  "active": "acfa7e0420f1fff9",
   "lastOpenFiles": [
-    "DnD/Templates/TemplateScene.md",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 1 - Tavern/Scene 3a - Rising Tension Sober.md",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/1. Village.md",
-    "DnD/Templates/TemplateCharacter.md",
-    "DnD/Templates/TemplateMagicalItem.md",
-    "DnD/Templates/TemplateNPC.md",
     "DnD/Templates/TemplateSettlement.md",
-    "DnD/Campaigns/The Mystery of the Forest/Act 2 - The Curious Caverns/Locations/Locations.md",
-    "conflict-files-obsidian-git.md",
-    "DnD/3. Resources/Monsters/Vine Blight.md",
-    "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/6. Stone Circle.md",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 1 - Tavern/Scene 2 - Tavern and Josh intro.md",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 1 - Tavern/Scene 1 - Arrival.md",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 1 - Tavern/Scene 3b 1 - Tavern brawn.md",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 1 - Tavern/Scene 3 - Drinking.md",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 1 - Tavern/Scene 3a 1 - Tavern brawn.md",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 1 - Tavern/Scene 3b - Rising Tension Drunk.md",
-    "DnD/z/MiscActions/Drinking_Tavern.md",
-    "DnD/z/MiscActions/CheckingTheCrops_TheField.md",
-    "DnD/z/MiscActions/BlackenedEarth_StoneCircle.md",
-    "DnD/z/MiscActions/StandingStones_StoneCircle.md",
-    "DnD/z/MiscActions/Roots_StoneCircle.md",
-    "DnD/z/MiscActions/Investigation_AwakenedTree.md",
-    "DnD/z/MiscActions/InspectionChecks_AnimalRing.md",
-    "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/5. Animal Ring.md",
+    "image.png",
+    "image-1.png",
+    "DnD/Templates/TemplateScene.md",
+    "DnD/Templates/TemplateNPC.md",
+    "DnD/Templates/TemplateMagicalItem.md",
+    "DnD/Templates/TemplateCharacter.md",
+    "DnD/Templates/TemplateChapter.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 1 - Arrival.md",
+    "TemplateReadAloud.md",
+    "DnD/Templates/TemplateReadAloud.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 2 - Tavern and Josh intro.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 4 - Rising Tensions.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Chapter 1 - Tavern.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapters/1/1.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 4b - Rising Tension Drunk.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 4a - Rising Tension Sober.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3b 1 - Tavern brawl.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3a 1 - Tavern brawl.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3 - Drinking.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapters/1/Chapter 1 - Tavern.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapters/1/Scene 4b - Rising Tension Drunk.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Untitled",
+    "Untitled.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapters/1/Scene 1 - Arrival.md",
+    "DnD/Templates/Untitled",
+    "DnD/3. Resources/NPCs/Untitled 1.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/1. Village.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapters/1/Scene 3 - Drinking.md",
     "DnD/z/UniqueItems",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 6 - Fight",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 5 - Ritual Site",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 4 - Village",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 3 - Journey",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 2 - Summons",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 1 - Tavern",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes",
     "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 6 - Fight",
     "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 5 - Ritual Site",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 4 - Village",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 3 - Journey",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 2 - Summons",
     "DnD/z/Images/The Root Shepherd face.jpg",
     "DnD/z/Images/Hanbury Caverns.png",
     "DnD/z/Images/widget.jpeg",
@@ -593,8 +619,6 @@
     "DnD/z/Images/Heimskr.jpg",
     "DnD/z/Images/Arlowe.jpeg",
     "DnD/z/Images/Awoken Room.jpg",
-    "DnD/z/Images/The Spore Cathedral.jpg",
-    "DnD/z/Images/The Hollowed Guardian.jpg",
     "The Mystery of the Forest/Act 1 - The Grove That Watches/Act 1 - The Grove That Watches.canvas"
   ]
 }
