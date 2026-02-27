@@ -16,18 +16,24 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "TemplateNPC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Templates/TemplateNPC.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TemplateNPC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DnD/Templates/TemplateNPC.md",
+                "file": "DnD/Test/Penis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TemplateNPC"
+              "title": "Penis"
             }
           }
         ]
@@ -355,8 +361,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2c7b32caa169954c",
+  "active": "2c67234dca5b7a2a",
   "lastOpenFiles": [
+    "DnD/Templates/TemplateNPC.md",
+    "DnD/Test/Penis.md",
     "DnD/Test",
     "DnD/Templates/TemplateMagicalItem.md",
     "DnD/3. Resources/Monsters/Awakened Tree.md",
@@ -386,7 +394,6 @@
     "DnD/Campaigns/The Mystery of the Forest/Act 2 - The Curious Caverns/Locations",
     "DnD/1. World/Britannia/Hanbury Woods.md",
     "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Locations/Locations.md",
-    "DnD/Templates/TemplateCharacter.md",
     "DnD/2. Lore",
     "DnD/1. World/Britannia/Worcestershire/Hanbury",
     "DnD/1. World/Britannia/Worcestershire",
@@ -394,7 +401,6 @@
     "DnD/z/Images/Hanbury Caverns.png",
     "DnD Campaign/1. World/Britannia/Hanbury Woods",
     "DnD Campaign/1. World/Britannia",
-    "DnD Campaign/1. World",
     "DnD/z/Images/widget.jpeg",
     "DnD/z/Images/Obasi.jpeg",
     "DnD/z/Images/Naeris Silvergrove.jpeg",
