@@ -298,8 +298,14 @@
             "id": "63096f9d35484f70",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Untitled 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/NPCs/Untitled 1.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Untitled 1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -1297,8 +1303,10 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "63096f9d35484f70",
+  "active": "2c7b32caa169954c",
   "lastOpenFiles": [
+    "DnD/z/NPCs/Untitled 1.md",
+    "DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury Caverns.md",
     "DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury.md",
     "DnD/1. World/Britannia/Worcestershire/Worcestershire.md",
     "DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury.canvas",
@@ -1306,8 +1314,6 @@
     "DnD/Templates/TemplateChapter.md",
     "DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury.base",
     "DnD/1. World/Britannia/Britannia.md",
-    "DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury Caverns.md",
-    "DnD/z/NPCs/Untitled 1.md",
     "DnD/2. Lore/Paladin Oaths.md",
     "DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury Village.md",
     "DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury Woods.md",
