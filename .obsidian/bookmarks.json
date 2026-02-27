@@ -20,30 +20,6 @@
           "items": [
             {
               "type": "group",
-              "ctime": 1772229450103,
-              "items": [],
-              "title": "0. DM Screen"
-            },
-            {
-              "type": "group",
-              "ctime": 1772229450103,
-              "items": [],
-              "title": "1. The Party"
-            },
-            {
-              "type": "group",
-              "ctime": 1772229450103,
-              "items": [],
-              "title": "1. World"
-            },
-            {
-              "type": "group",
-              "ctime": 1772229450103,
-              "items": [],
-              "title": "2. Lore"
-            },
-            {
-              "type": "group",
               "ctime": 1772229201261,
               "items": [
                 {
@@ -104,13 +80,7 @@
                   "title": "The Mystery of the Forest"
                 }
               ],
-              "title": "Campaigns"
-            },
-            {
-              "type": "group",
-              "ctime": 1772229450103,
-              "items": [],
-              "title": "Templates"
+              "title": "\\\\Campaigns"
             },
             {
               "type": "group",
@@ -135,31 +105,37 @@
                                 {
                                   "type": "file",
                                   "ctime": 1772222552491,
-                                  "path": "DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Legendary.md",
-                                  "subpath": "#^-"
-                                },
-                                {
-                                  "type": "file",
-                                  "ctime": 1772222552491,
-                                  "path": "DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Rare.md",
-                                  "subpath": "#^-"
-                                },
-                                {
-                                  "type": "file",
-                                  "ctime": 1772222552491,
                                   "path": "DnD/z/Vendor Items/Armour/Armour - Uncommon.md",
-                                  "subpath": "#^-"
-                                },
-                                {
-                                  "type": "file",
-                                  "ctime": 1772222552491,
-                                  "path": "DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Very Rare.md",
                                   "subpath": "#^-"
                                 },
                                 {
                                   "type": "file",
                                   "ctime": 1772222840142,
                                   "path": "DnD/z/Vendor Items/Armour/sortspec.md",
+                                  "subpath": "#^-"
+                                },
+                                {
+                                  "type": "group",
+                                  "ctime": 1772230641784,
+                                  "items": [],
+                                  "title": "Armour - Uncommon"
+                                },
+                                {
+                                  "type": "file",
+                                  "ctime": 1772230641784,
+                                  "path": "DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Rare.md",
+                                  "subpath": "#^-"
+                                },
+                                {
+                                  "type": "file",
+                                  "ctime": 1772230641784,
+                                  "path": "DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Very Rare.md",
+                                  "subpath": "#^-"
+                                },
+                                {
+                                  "type": "file",
+                                  "ctime": 1772230641784,
+                                  "path": "DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Legendary.md",
                                   "subpath": "#^-"
                                 }
                               ],
@@ -175,7 +151,7 @@
                   "title": "Items"
                 }
               ],
-              "title": "z"
+              "title": "\\\\z"
             }
           ],
           "title": "\\\\DnD"

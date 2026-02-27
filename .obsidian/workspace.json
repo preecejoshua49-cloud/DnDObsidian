@@ -305,6 +305,102 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Armour - Rare",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Rare.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Armour - Rare\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Armour - Very Rare",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Very Rare.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Armour - Very Rare\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Adamantine Armor",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Uncommon/Adamantine/Adamantine Armor.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Adamantine Armor\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Adamantine Chain Shirt",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Uncommon/Adamantine/Adamantine Chain Shirt.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Adamantine Chain Shirt\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Adamantine Scale Mail",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Uncommon/Adamantine/Adamantine Scale Mail.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Adamantine Scale Mail\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":2},\"to\":{\"line\":0,\"ch\":2}}}"
+                },
+                {
+                  "title": "Adamantine Chain Shirt",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Uncommon/Adamantine/Adamantine Chain Shirt.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Adamantine Chain Shirt\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Adamantine Armor",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Uncommon/Adamantine/Adamantine Armor.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Adamantine Armor\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}}}"
+                },
+                {
+                  "title": "Adamantine Scale Mail",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Uncommon/Adamantine/Adamantine Scale Mail.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Adamantine Scale Mail\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":2},\"to\":{\"line\":0,\"ch\":2}}}"
+                },
+                {
+                  "title": "Adamantine Chain Shirt",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Uncommon/Adamantine/Adamantine Chain Shirt.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Adamantine Chain Shirt\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Adamantine Armor",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Uncommon/Adamantine/Adamantine Armor.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Adamantine Armor\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Adamantine Chain Shirt",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Uncommon/Adamantine/Adamantine Chain Shirt.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Adamantine Chain Shirt\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Adamantine Scale Mail",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Uncommon/Adamantine/Adamantine Scale Mail.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Adamantine Scale Mail\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
+                },
+                {
+                  "title": "Adamantine Chain Shirt",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Uncommon/Adamantine/Adamantine Chain Shirt.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Adamantine Chain Shirt\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
+                },
+                {
+                  "title": "Adamantine Scale Mail",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Uncommon/Adamantine/Adamantine Scale Mail.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Adamantine Scale Mail\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":2},\"to\":{\"line\":0,\"ch\":2}}}"
+                },
+                {
+                  "title": "Adamantine Chain Shirt",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Uncommon/Adamantine/Adamantine Chain Shirt.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Adamantine Chain Shirt\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Alchemy Jug",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Items/PlayerItems/MagicItems/Wonderous Items/Uncommon/Alchemy Jug.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Alchemy Jug\"}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
                   "title": "The Field",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/The Field.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Field\"}",
@@ -405,12 +501,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DnD/z/Items/PlayerItems/MagicItems/Wonderous Items/Uncommon/Alchemy Jug.md",
-                "mode": "preview",
+                "file": "DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Legendary.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alchemy Jug"
+              "title": "Armour - Legendary"
             }
           }
         ],
@@ -991,8 +1087,14 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "63096f9d35484f70",
+  "active": "2c7b32caa169954c",
   "lastOpenFiles": [
+    "DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Rare.md",
+    "DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Very Rare.md",
+    "DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Uncommon/Adamantine/Adamantine Armor.md",
+    "DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Uncommon/Adamantine/Adamantine Chain Shirt.md",
+    "DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Uncommon/Adamantine/Adamantine Scale Mail.md",
+    "DnD/z/Items/PlayerItems/MagicItems/Wonderous Items/Uncommon/Alchemy Jug.md",
     "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/The Field.md",
     "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/Sunken Spring.md",
     "DnD/0. DM Screen/0.DM Screen.md",
@@ -1002,7 +1104,6 @@
     "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/Overgrown Campsite.md",
     "DnD/z/Images/image-1 1.png",
     "DnD/z/Images/image 1.png",
-    "DnD/z/Items/PlayerItems/MagicItems/Wonderous Items/Uncommon/Alchemy Jug.md",
     "DnD/z/Attributes/Properties/Versatile.md",
     "DnD/z/Items/PlayerItems/MagicItems/Wonderous Items/Uncommon",
     "DnD/z/Items/PlayerItems/MagicItems/Wonderous Items",
@@ -1018,11 +1119,6 @@
     "DnD/z/Attributes/Masteries/Weapons/Sap.md",
     "DnD/z/Attributes/Masteries/Weapons/Push.md",
     "DnD/z/Attributes/Masteries/Weapons/Nick.md",
-    "DnD/z/Attributes/Masteries/Weapons/Graze.md",
-    "DnD/z/Attributes/Masteries/Weapons/Cleave.md",
-    "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Locations/Locations.md",
-    "DnD/z/Items/PlayerItems/Supplies (Adventuring Gear).md",
-    "DnD/z/Items/PlayerItems/Trinkets.md",
     "DnD/z/Images/image-1.png",
     "DnD/z/Images/image.png",
     "DnD/z/Items/Homebrew Magic Items",

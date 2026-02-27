@@ -3,7 +3,7 @@ This suit of armor is reinforced with adamantine, one of the hardest substances 
 | Name                                                                             | Type   | AC                        | Strength    | Stealth      |
 | -------------------------------------------------------------------------------- | ------ | ------------------------- | ----------- | ------------ |
 | [[Adamantine Chain Shirt]]                                                       | Medium | 13 + Dex modifier (max 2) | --          | --           |
-| [[Adamantine Scale Mail]]]                                                       | Medium | 14 + Dex modifier (max 2) | --          | Disadvantage |
+| [[Adamantine Scale Mail]]                                                        | Medium | 14 + Dex modifier (max 2) | --          | Disadvantage |
 | [Breastplate](https://www.dndbeyond.com/magic-items/4847-adamantine-breastplate) | Medium | 14+ Dex modifier (max 2)  | --          | --           |
 | [Half Plate](https://www.dndbeyond.com/magic-items/4848-adamantine-half-plate)   | Medium | 15+ Dex modifier (max 2)  | --          | Disadvantage |
 | [Ring Mail](https://www.dndbeyond.com/magic-items/4849-adamantine-ring-mail)     | Heavy  | 14                        | --          | Disadvantage |
