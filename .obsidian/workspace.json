@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "The Pattern of the Predator",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 3 - The Hunt/Locations/The Pattern of the Predator.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Pattern of the Predator\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":48,\"ch\":100},\"to\":{\"line\":48,\"ch\":100}},\"scroll\":29.716796875}"
+                },
+                {
                   "title": "Scene 3 - Drinking",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3 - Drinking.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3 - Drinking\"}",
@@ -44,14 +50,10 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DnD/Campaigns/The Mystery of the Forest/Act 3 - The Hunt/Locations/The Pattern of the Predator.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Pattern of the Predator"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -401,9 +403,9 @@
   },
   "active": "988744c66cfb9b65",
   "lastOpenFiles": [
+    "DnD/Campaigns/The Mystery of the Forest/Act 3 - The Hunt/Locations/The Pattern of the Predator.md",
     "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3 - Drinking.md",
     "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Chapter 1 - Tavern.md",
-    "DnD/Campaigns/The Mystery of the Forest/Act 3 - The Hunt/Locations/The Pattern of the Predator.md",
     "DnD/Campaigns/The Mystery of the Forest/Act 3 - The Hunt/Locations/Untitled 1.md",
     "DnD/Campaigns/The Mystery of the Forest/Act 3 - The Hunt/Locations/Locations.md",
     "DnD/0. DM Screen/0.DM Screen.md",

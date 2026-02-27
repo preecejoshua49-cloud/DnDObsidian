@@ -41,10 +41,12 @@ A massive elk lies in a small clearing.
 ## Actions
 
 
-| Check | DC  | Result on Fail | Result on Pass |
-| ----- | --- | -------------- | -------------- |
-|       |     |                |                |
-|       |     |                |                |
+| Check              | DC  | Result on Fail                                                         | Result on Pass                                                                                                                              | DM Notes                                                               |
+| ------------------ | --- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| Survival           | 12  | All you can see is some sort of animal tracks leading up tot he corpse | You see bear tracks, it appears the bear approached, stood up right and then left walking on two legs.                                      | On 15+ the trackle circle the body in a spiral before leaving          |
+| Nature             | 12  | You can make out this isn't feeding behaviour but not much else        | You notice this isn't typical feeding behaviour, the cut appears to clean for claws and the sap inside seems to be infused with plant magic | On 15+ The sap smells faintly like the spores from the underground     |
+| Medicine           | 11  | You notice the Elk is dead                                             | You determine that the Elk died instantly from a single massive blow, and something deliberately opened it post-mortem.                     | on 14+ The rib cage was positioned intentionally - not random tearing. |
+| Arcana OR Religion | 13  |                                                                        |                                                                                                                                             |                                                                        |
 
 
 ## Items
