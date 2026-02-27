@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4662063904e9c22a",
+        "id": "468cd8162f85d9d1",
         "type": "tabs",
         "children": [
           {
-            "id": "16f862668080a0af",
+            "id": "ae387b79ea036ab2",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,194 +16,17 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Chapter 2 - Summons",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 2/Chapter 2 - Summons.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Chapter 2 - Summons\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":0},\"to\":{\"line\":28,\"ch\":0}}}"
-                },
-                {
-                  "title": "Chapter 1 - Tavern",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Chapter 1 - Tavern.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Chapter 1 - Tavern\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":11},\"to\":{\"line\":5,\"ch\":0}}}"
-                },
-                {
-                  "title": "TemplateChapter",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Templates/TemplateChapter.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TemplateChapter\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":11},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
-                {
-                  "title": "Chapter 1 - Tavern",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Chapter 1 - Tavern.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Chapter 1 - Tavern\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "TemplateChapter",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Templates/TemplateChapter.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TemplateChapter\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":18},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
-                {
-                  "title": "Chapter 1 - Tavern",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Chapter 1 - Tavern.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Chapter 1 - Tavern\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Diff: workspace.json  (Working Tree)",
-                  "icon": "diff",
-                  "state": "{\"type\":\"split-diff-view\",\"state\":{\"aFile\":\".obsidian/workspace.json\",\"bFile\":\".obsidian/workspace.json\",\"aRef\":\"\"},\"icon\":\"diff\",\"title\":\"Diff: workspace.json  (Working Tree)\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "TemplateNPC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Templates/TemplateNPC.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TemplateNPC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
-                },
-                {
-                  "title": "TemplateMagicalItem",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Templates/TemplateMagicalItem.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TemplateMagicalItem\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
-                },
-                {
-                  "title": "TemplateCharacter",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Templates/TemplateCharacter.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TemplateCharacter\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":0},\"to\":{\"line\":23,\"ch\":0}}}"
-                },
-                {
-                  "title": "TemplateChapter",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Templates/TemplateChapter.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TemplateChapter\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Alchemy Jug",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Items/PlayerItems/MagicItems/Wonderous Items/Uncommon/Alchemy Jug.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Alchemy Jug\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/core-plugins.json",
-                "bFile": ".obsidian/core-plugins.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: core-plugins.json  (Working Tree)"
-            }
-          },
-          {
-            "id": "7d0545aa3eea4bd0",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "conflict-files-obsidian-git",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"conflict-files-obsidian-git\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
-            }
-          },
-          {
-            "id": "9729e7b88184c435",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "conflict-files-obsidian-git",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"conflict-files-obsidian-git\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
-            }
-          },
-          {
-            "id": "a2dd60207c347228",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "conflict-files-obsidian-git",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"conflict-files-obsidian-git\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":11},\"to\":{\"line\":0,\"ch\":11}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "DnD/z/Items/PlayerItems/MagicItems/Wonderous Items/Uncommon/Alchemy Jug.md",
-                "bFile": "DnD/z/Items/PlayerItems/MagicItems/Wonderous Items/Uncommon/Alchemy Jug.md",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Alchemy Jug  (Index)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -496,6 +319,25 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
+            }
+          },
+          {
+            "id": "93439ef241d9ff95",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
               "icon": "initiative-tracker",
               "title": "Initiative Tracker"
             }
@@ -529,7 +371,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "9729e7b88184c435",
+  "active": "b3b30eb368b71af2",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury.md",
