@@ -23,7 +23,7 @@ exports:
 imports:
 ---
 
-
+[[Hanbury]], [[Worcestershire]], [[Britannia]]
 > [!infobox]
 > # `=this.file.name`
 > ![[hanbury village D&D.png]]

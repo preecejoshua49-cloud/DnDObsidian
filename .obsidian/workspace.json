@@ -16,14 +16,84 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Hanbury Village",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury Village.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Hanbury Village\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":46},\"to\":{\"line\":25,\"ch\":46}},\"scroll\":0}"
+                },
+                {
+                  "title": "Hanbury Caverns",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury Caverns.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Hanbury Caverns\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":0},\"to\":{\"line\":22,\"ch\":0}}}"
+                },
+                {
+                  "title": "Hanbury Woods",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury Woods.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Hanbury Woods\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":21,\"ch\":0}}}"
+                },
+                {
+                  "title": "Hanbury Village",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury Village.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Hanbury Village\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":0},\"to\":{\"line\":24,\"ch\":0}}}"
+                },
+                {
+                  "title": "Hanbury Caverns",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury Caverns.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Hanbury Caverns\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}}}"
+                },
+                {
+                  "title": "Hanbury Woods",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury Woods.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Hanbury Woods\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":21,\"ch\":0}}}"
+                },
+                {
+                  "title": "Locations",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Locations/Locations.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Locations\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":10},\"to\":{\"line\":0,\"ch\":10}}}"
+                },
+                {
+                  "title": "Britannia",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/1. World/Britannia/Britannia.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Britannia\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Hanbury Woods",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury Woods.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Hanbury Woods\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":21,\"ch\":0}}}"
+                },
+                {
+                  "title": "Locations",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Locations/Locations.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Locations\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Britannia",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/1. World/Britannia/Britannia.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Britannia\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury Woods.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Hanbury Woods"
             }
           }
         ]
@@ -371,10 +441,16 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "b3b30eb368b71af2",
+  "active": "ae387b79ea036ab2",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury Village.md",
+    "DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury Caverns.md",
+    "DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury Woods.md",
     "DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury.md",
+    "DnD/1. World/Britannia/Worcestershire/Worcestershire.md",
+    "DnD/1. World/Britannia/Britannia.md",
+    "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Locations/Locations.md",
+    "conflict-files-obsidian-git.md",
     "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 2/Chapter 2 - Summons.md",
     "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Chapter 1 - Tavern.md",
     "DnD/Templates/TemplateChapter.md",
@@ -397,12 +473,6 @@
     "DnD/z/Attributes/Properties/Two-Handed.md",
     "DnD/z/Attributes/Properties/Reach.md",
     "DnD/z/Attributes/Properties/Loading.md",
-    "DnD/z/Attributes/Properties/Light.md",
-    "DnD/z/Attributes/Properties/Finesse.md",
-    "DnD/z/Attributes/Properties/Ammunition.md",
-    "DnD/z/Attributes/Masteries/Weapons/Vex.md",
-    "DnD/z/Attributes/Masteries/Weapons/Topple.md",
-    "DnD/z/Attributes/Masteries/Weapons/Slow.md",
     "DnD/z/Images/image-1.png",
     "DnD/z/Images/image.png",
     "DnD/z/Items/Homebrew Magic Items",

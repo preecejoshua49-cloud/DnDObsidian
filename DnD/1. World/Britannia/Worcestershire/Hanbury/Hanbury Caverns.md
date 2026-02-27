@@ -18,7 +18,7 @@ exports:
 imports:
 ---
 
-[[Hanbury]]
+[[Hanbury]], [[Worcestershire]], [[Britannia]]
 
 
 > [!infobox]
