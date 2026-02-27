@@ -298,11 +298,215 @@
             "id": "63096f9d35484f70",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Hanbury",
+                  "icon": "lucide-table",
+                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury.base\",\"viewName\":\"Table\"},\"icon\":\"lucide-table\",\"title\":\"Hanbury\"}",
+                  "eState": "{\"views\":{\"Table\":{\"scroll\":{\"top\":0.8353817504655493,\"left\":0},\"activeCell\":null}}}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Hanbury",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Hanbury\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Worcestershire",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/1. World/Britannia/Worcestershire/Worcestershire.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Worcestershire\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Britannia",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/1. World/Britannia/Britannia.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Britannia\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Hanbury",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Hanbury\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Worcestershire",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/1. World/Britannia/Worcestershire/Worcestershire.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Worcestershire\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Hanbury",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Hanbury\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Britannia",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/1. World/Britannia/Britannia.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Britannia\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Worcestershire",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/1. World/Britannia/Worcestershire/Worcestershire.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Worcestershire\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Hanbury",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Hanbury\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Worcestershire",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/1. World/Britannia/Worcestershire/Worcestershire.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Worcestershire\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Britannia",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/1. World/Britannia/Britannia.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Britannia\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Hanbury",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Hanbury\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Worcestershire",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/1. World/Britannia/Worcestershire/Worcestershire.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Worcestershire\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Hanbury",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Hanbury\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":18},\"to\":{\"line\":0,\"ch\":18}},\"scroll\":0}"
+                },
+                {
+                  "title": "Hanbury Caverns",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury Caverns.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Hanbury Caverns\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}},\"scroll\":12.140575079872205}"
+                },
+                {
+                  "title": "Hanbury",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Hanbury\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Hanbury Village",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury Village.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Hanbury Village\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":0},\"to\":{\"line\":24,\"ch\":0}}}"
+                },
+                {
+                  "title": "Hanbury Caverns",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury Caverns.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Hanbury Caverns\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}}}"
+                },
+                {
+                  "title": "Hanbury Village",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury Village.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Hanbury Village\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":0},\"to\":{\"line\":24,\"ch\":0}}}"
+                },
+                {
+                  "title": "Hanbury Woods",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury Woods.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Hanbury Woods\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":21,\"ch\":0}}}"
+                },
+                {
+                  "title": "Hanbury",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Hanbury\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Hanbury Caverns",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury Caverns.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Hanbury Caverns\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}}}"
+                },
+                {
+                  "title": "Hanbury Woods",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury Woods.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Hanbury Woods\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":21,\"ch\":0}}}"
+                },
+                {
+                  "title": "Hanbury Village",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury Village.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Hanbury Village\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":0},\"to\":{\"line\":24,\"ch\":0}}}"
+                },
+                {
+                  "title": "Hanbury Caverns",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury Caverns.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Hanbury Caverns\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}}}"
+                },
+                {
+                  "title": "Hanbury",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Hanbury\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "TemplateSettlement",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Templates/TemplateSettlement.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TemplateSettlement\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":0},\"to\":{\"line\":29,\"ch\":0}},\"scroll\":32.625}"
+                },
+                {
+                  "title": "0.DM Screen",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/0. DM Screen/0.DM Screen.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"0.DM Screen\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Hanbury",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Hanbury\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Worcestershire",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/1. World/Britannia/Worcestershire/Worcestershire.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Worcestershire\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Hanbury",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Hanbury\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Armour - Legendary",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Legendary.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Armour - Legendary\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Armour - Rare",
@@ -501,12 +705,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Legendary.md",
+                "file": "DnD/1. World/Britannia/Worcestershire/Worcestershire.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Armour - Legendary"
+              "title": "Worcestershire"
             }
           }
         ],
@@ -1089,6 +1293,18 @@
   },
   "active": "2c7b32caa169954c",
   "lastOpenFiles": [
+    "DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury.base",
+    "DnD/1. World/Britannia/Worcestershire/Worcestershire.md",
+    "DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury.md",
+    "DnD/1. World/Britannia/Britannia.md",
+    "DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury Caverns.md",
+    "DnD/z/NPCs/Untitled 1.md",
+    "DnD/2. Lore/Paladin Oaths.md",
+    "DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury Village.md",
+    "DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury Woods.md",
+    "DnD/Templates/TemplateSettlement.md",
+    "DnD/0. DM Screen/0.DM Screen.md",
+    "DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Legendary.md",
     "DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Rare.md",
     "DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Very Rare.md",
     "DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Uncommon/Adamantine/Adamantine Armor.md",
@@ -1097,7 +1313,6 @@
     "DnD/z/Items/PlayerItems/MagicItems/Wonderous Items/Uncommon/Alchemy Jug.md",
     "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/The Field.md",
     "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/Sunken Spring.md",
-    "DnD/0. DM Screen/0.DM Screen.md",
     "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/Stone Circle.md",
     "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/Animal Ring.md",
     "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/Hollow Oak.md",
@@ -1108,17 +1323,6 @@
     "DnD/z/Items/PlayerItems/MagicItems/Wonderous Items/Uncommon",
     "DnD/z/Items/PlayerItems/MagicItems/Wonderous Items",
     "DnD/z/Attributes/Properties/Two-Handed.md",
-    "DnD/z/Attributes/Properties/Reach.md",
-    "DnD/z/Attributes/Properties/Loading.md",
-    "DnD/z/Attributes/Properties/Light.md",
-    "DnD/z/Attributes/Properties/Finesse.md",
-    "DnD/z/Attributes/Properties/Ammunition.md",
-    "DnD/z/Attributes/Masteries/Weapons/Vex.md",
-    "DnD/z/Attributes/Masteries/Weapons/Topple.md",
-    "DnD/z/Attributes/Masteries/Weapons/Slow.md",
-    "DnD/z/Attributes/Masteries/Weapons/Sap.md",
-    "DnD/z/Attributes/Masteries/Weapons/Push.md",
-    "DnD/z/Attributes/Masteries/Weapons/Nick.md",
     "DnD/z/Images/image-1.png",
     "DnD/z/Images/image.png",
     "DnD/z/Items/Homebrew Magic Items",
@@ -1128,7 +1332,6 @@
     "DnD/z/Attributes/Masteries",
     "DnD/z/Attributes",
     "DnD/z/Items/PlayerItems/MagicItems/Weapons/Weapon/Weapon - Uncommon/Mithral",
-    "DnD/z/Items/PlayerItems/MagicItems/Weapons/Weapon/Weapon - Uncommon/Adamantine",
     "DnD/z/Images/The Root Shepherd face.jpg",
     "DnD/z/Images/Hanbury Caverns.png",
     "DnD/z/Images/widget.jpeg",
