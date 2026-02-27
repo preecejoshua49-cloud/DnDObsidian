@@ -7,4 +7,4 @@ This suit of armor is reinforced with adamantine, one of the hardest substances 
 
 This armor consists of a coat and leggings (and perhaps a separate skirt) of leather covered with overlapping pieces of metal, much like the scales of a fish. The suit includes gauntlets.
 
-![[image-1.png]]
+![[image-1 1.png]]

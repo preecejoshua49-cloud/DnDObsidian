@@ -81,11 +81,11 @@ Placeholder
 
 ## Points of Interest
 
-[[2. Sunken Spring|Sunken Spring]]
-[[3. Overgrown Campsite|Overgrown Campsite]]
-[[4. Hollow Oak|Hollow Oak]]
-[[5. Animal Ring|Animal Ring]]
-[[6. Stone Circle|Stone Circle]]
+[[Sunken Spring|Sunken Spring]]
+[[Overgrown Campsite|Overgrown Campsite]]
+[[Hollow Oak|Hollow Oak]]
+[[Animal Ring|Animal Ring]]
+[[Stone Circle|Stone Circle]]
 
 ## Valuables
 Placeholder

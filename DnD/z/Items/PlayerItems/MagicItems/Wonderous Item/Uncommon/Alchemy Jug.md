@@ -1,6 +1,6 @@
 ---
 banner: https://www.dndbeyond.com/avatars/thumbnails/45205/421/1000/1000/638657413395512461.png
-banner-fade: -150
+banner-fade: -155
 banner-radius: 0
 banner-align: left
 banner-x: 100

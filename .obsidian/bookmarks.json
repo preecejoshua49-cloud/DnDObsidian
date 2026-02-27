@@ -20,6 +20,100 @@
           "items": [
             {
               "type": "group",
+              "ctime": 1772229450103,
+              "items": [],
+              "title": "0. DM Screen"
+            },
+            {
+              "type": "group",
+              "ctime": 1772229450103,
+              "items": [],
+              "title": "1. The Party"
+            },
+            {
+              "type": "group",
+              "ctime": 1772229450103,
+              "items": [],
+              "title": "1. World"
+            },
+            {
+              "type": "group",
+              "ctime": 1772229450103,
+              "items": [],
+              "title": "2. Lore"
+            },
+            {
+              "type": "group",
+              "ctime": 1772229201261,
+              "items": [
+                {
+                  "type": "group",
+                  "ctime": 1772229245228,
+                  "items": [
+                    {
+                      "type": "group",
+                      "ctime": 1772229245228,
+                      "items": [
+                        {
+                          "type": "group",
+                          "ctime": 1772229245228,
+                          "items": [
+                            {
+                              "type": "file",
+                              "ctime": 1772229245228,
+                              "path": "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/The Field.md",
+                              "subpath": "#^-"
+                            },
+                            {
+                              "type": "file",
+                              "ctime": 1772229325391,
+                              "path": "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/Sunken Spring.md",
+                              "subpath": "#^-"
+                            },
+                            {
+                              "type": "file",
+                              "ctime": 1772229245228,
+                              "path": "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/Overgrown Campsite.md",
+                              "subpath": "#^-"
+                            },
+                            {
+                              "type": "file",
+                              "ctime": 1772229245228,
+                              "path": "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/Hollow Oak.md",
+                              "subpath": "#^-"
+                            },
+                            {
+                              "type": "file",
+                              "ctime": 1772229245228,
+                              "path": "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/Hollow Oak.md",
+                              "subpath": "#^-"
+                            },
+                            {
+                              "type": "file",
+                              "ctime": 1772229245228,
+                              "path": "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/Animal Ring.md",
+                              "subpath": "#^-"
+                            }
+                          ],
+                          "title": "\\\\Scenes"
+                        }
+                      ],
+                      "title": "\\\\Act 1 - The Grove That Watches"
+                    }
+                  ],
+                  "title": "The Mystery of the Forest"
+                }
+              ],
+              "title": "Campaigns"
+            },
+            {
+              "type": "group",
+              "ctime": 1772229450103,
+              "items": [],
+              "title": "Templates"
+            },
+            {
+              "type": "group",
               "ctime": 1772222552491,
               "items": [
                 {
@@ -81,7 +175,7 @@
                   "title": "Items"
                 }
               ],
-              "title": "\\\\z"
+              "title": "z"
             }
           ],
           "title": "\\\\DnD"

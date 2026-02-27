@@ -89,7 +89,7 @@ Placeholder
 
 ## Points of Interest
 
-[[1. The Field| The Field]]
+[[The Field| The Field]]
 
 ## Valuables
 Placeholder

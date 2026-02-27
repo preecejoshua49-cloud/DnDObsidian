@@ -293,8 +293,110 @@
               "icon": "lucide-file",
               "title": "Alchemy Jug"
             }
+          },
+          {
+            "id": "63096f9d35484f70",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Animal Ring",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/Animal Ring.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Animal Ring\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Hollow Oak",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/Hollow Oak.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Hollow Oak\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Overgrown Campsite",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/Overgrown Campsite.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Overgrown Campsite\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Sunken Spring",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/Sunken Spring.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Sunken Spring\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Field",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/The Field.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Field\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Sunken Spring",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/Sunken Spring.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"2. Sunken Spring\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Overgrown Campsite",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/Overgrown Campsite.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"3. Overgrown Campsite\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "image-1 1",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DnD/z/Images/image-1 1.png\"},\"icon\":\"lucide-image\",\"title\":\"image-1 1\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "image 1",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DnD/z/Images/image 1.png\"},\"icon\":\"lucide-image\",\"title\":\"image\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "image-1 1",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DnD/z/Images/image-1 1.png\"},\"icon\":\"lucide-image\",\"title\":\"image-1\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "image 1",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DnD/z/Images/image 1.png\"},\"icon\":\"lucide-image\",\"title\":\"image\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "image-1 1",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"DnD/z/Images/image-1 1.png\"},\"icon\":\"lucide-image\",\"title\":\"image-1\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Sunken Spring",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/Sunken Spring.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"2. Sunken Spring\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/Stone Circle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stone Circle"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -867,15 +969,23 @@
       "templater-obsidian:Templater": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "16f862668080a0af",
+  "active": "2c7b32caa169954c",
   "lastOpenFiles": [
-    "image-1.png",
-    "image.png",
-    "DnD/z/Attributes/Properties/Versatile.md",
+    "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/Stone Circle.md",
+    "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/Animal Ring.md",
+    "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/Hollow Oak.md",
+    "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/Overgrown Campsite.md",
+    "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/Sunken Spring.md",
+    "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/The Field.md",
+    "DnD/0. DM Screen/0.DM Screen.md",
+    "DnD/z/Images/image-1 1.png",
+    "DnD/z/Images/image 1.png",
     "DnD/z/Items/PlayerItems/MagicItems/Wonderous Item/Uncommon/Alchemy Jug.md",
+    "DnD/z/Attributes/Properties/Versatile.md",
     "DnD/z/Items/PlayerItems/MagicItems/Wonderous Item/Uncommon",
     "DnD/z/Items/PlayerItems/MagicItems/Wonderous Item",
     "DnD/z/Attributes/Properties/Two-Handed.md",
@@ -895,14 +1005,8 @@
     "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Locations/Locations.md",
     "DnD/z/Items/PlayerItems/Supplies (Adventuring Gear).md",
     "DnD/z/Items/PlayerItems/Trinkets.md",
-    "DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Uncommon/Adamantine/Adamantine Armor.md",
-    "DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Uncommon/Adamantine/Adamantine Scale Mail.md",
     "DnD/z/Images/image-1.png",
-    "DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Uncommon/Adamantine/Adamantine Chain Shirt.md",
     "DnD/z/Images/image.png",
-    "DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Uncommon/Mithral/Mithral Armor.md",
-    "DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Uncommon/Mariner's/Mariner's Armor.md",
-    "DnD/z/Items/PlayerItems/Homebrew Magic Items/Lyre of Resonant Echoes.md",
     "DnD/z/Items/Homebrew Magic Items",
     "DnD/z/Items/PlayerItems/Homebrew Magic Items",
     "DnD/z/Attributes/Masteries/Weapons",
@@ -917,7 +1021,6 @@
     "DnD/z/Images/Obasi.jpeg",
     "DnD/z/Images/Naeris Silvergrove.jpeg",
     "DnD/z/Images/Heimskr.jpg",
-    "DnD/z/Images/Arlowe.jpeg",
     "The Mystery of the Forest/Act 1 - The Grove That Watches/Act 1 - The Grove That Watches.canvas"
   ]
 }
