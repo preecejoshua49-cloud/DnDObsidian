@@ -15,7 +15,7 @@ Value:
 ---
 
 <% tp.file.title %>
-<% await tp.file.move("DnD/3. Resources/Magical Items/" + tp.file.title) %>
+<% await tp.file.move("DnD/z/Items/PlayerItems/Homebrew Magic Items/" + tp.file.title) %>
 
 <%*
 const hasTitle = !tp.file.title.startsWith("NewMagicalItem");
