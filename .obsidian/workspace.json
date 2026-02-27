@@ -18,6 +18,132 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Versatile",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Attributes/Properties/Versatile.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Versatile\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":188},\"to\":{\"line\":0,\"ch\":188}}}"
+                },
+                {
+                  "title": "Two-Handed",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Attributes/Properties/Two-Handed.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Two-Handed\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Reach",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Attributes/Properties/Reach.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Reach\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Loading",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Attributes/Properties/Loading.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Loading\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Light",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Attributes/Properties/Light.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Light\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Finesse",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Attributes/Properties/Finesse.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Finesse\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Ammunition",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Attributes/Properties/Ammunition.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Ammunition\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Vex",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Attributes/Masteries/Weapons/Vex.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Vex\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Topple",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Attributes/Masteries/Weapons/Topple.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Topple\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Slow",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Attributes/Masteries/Weapons/Slow.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Slow\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Sap",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Attributes/Masteries/Weapons/Sap.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Sap\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Push",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Attributes/Masteries/Weapons/Push.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Push\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Nick",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Attributes/Masteries/Weapons/Nick.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Nick\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Graze",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Attributes/Masteries/Weapons/Graze.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Graze\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Cleave",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Attributes/Masteries/Weapons/Cleave.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cleave\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Locations",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Locations/Locations.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Locations\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Supplies (Adventuring Gear)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Items/PlayerItems/Supplies (Adventuring Gear).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Supplies (Adventuring Gear)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Trinkets",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Items/PlayerItems/Trinkets.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Trinkets\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Supplies (Adventuring Gear)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Items/PlayerItems/Supplies (Adventuring Gear).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Supplies (Adventuring Gear)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Trinkets",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Items/PlayerItems/Trinkets.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Trinkets\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Supplies (Adventuring Gear)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Items/PlayerItems/Supplies (Adventuring Gear).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Supplies (Adventuring Gear)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "Trinkets",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Items/PlayerItems/Trinkets.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Trinkets\"}",
@@ -160,12 +286,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DnD/z/Items/PlayerItems/Supplies (Adventuring Gear).md",
+                "file": "DnD/z/Items/PlayerItems/MagicItems/Wonderous Item/Uncommon/Alchemy Jug.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Supplies (Adventuring Gear)"
+              "title": "Alchemy Jug"
             }
           }
         ]
@@ -744,82 +870,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "aa214074a993e079",
-    "type": "floating",
-    "children": [
-      {
-        "id": "aece75f444ba0881",
-        "type": "window",
-        "children": [
-          {
-            "id": "2e5a62582a0dd4ce",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f120de277c559331",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    },
-                    {
-                      "title": "Adamantine Scale Mail - Magic Items - D&D Beyond",
-                      "icon": "globe-2",
-                      "state": "{\"state\":{\"url\":\"https://www.dndbeyond.com/magic-items/5370-adamantine-armor\"},\"type\":\"webviewer\"}",
-                      "eState": "null"
-                    },
-                    {
-                      "title": "Adamantine Armor - Magic Items - D&D Beyond",
-                      "icon": "globe-2",
-                      "state": "{\"state\":{\"url\":\"https://www.dndbeyond.com/magic-items?filter-type=1&filter-search=&filter-requires-attunement=&filter-effect-type=&filter-effect-subtype=&filter-has-charges=&filter-partnered-content=f\"},\"type\":\"webviewer\"}",
-                      "eState": "null"
-                    },
-                    {
-                      "title": "Magic Items for Dungeons & Dragons (D&D) Fifth Edition (5e) - D&D Beyond",
-                      "icon": "globe-2",
-                      "state": "{\"state\":{\"url\":\"https://www.dndbeyond.com/magic-items\"},\"type\":\"webviewer\"}",
-                      "eState": "null"
-                    },
-                    {
-                      "title": "Magic Items for Dungeons & Dragons (D&D) Fifth Edition (5e) - D&D Beyond",
-                      "icon": "globe-2",
-                      "state": "{\"state\":{\"url\":\"https://www.dndbeyond.com/magic-items/4566-adamantine-chain-shirt\"},\"type\":\"webviewer\"}",
-                      "eState": "null"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://www.dndbeyond.com/magic-items/4845-adamantine-scale-mail",
-                    "title": "Adamantine Scale Mail - Magic Items - D&D Beyond",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Adamantine Scale Mail - Magic Items - D&D Beyond"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 641,
-        "y": 213,
-        "width": 600,
-        "height": 600,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "16f862668080a0af",
   "lastOpenFiles": [
-    "DnD/z/Items/PlayerItems/Trinkets.md",
+    "image-1.png",
+    "image.png",
+    "DnD/z/Attributes/Properties/Versatile.md",
+    "DnD/z/Items/PlayerItems/MagicItems/Wonderous Item/Uncommon/Alchemy Jug.md",
+    "DnD/z/Items/PlayerItems/MagicItems/Wonderous Item/Uncommon",
+    "DnD/z/Items/PlayerItems/MagicItems/Wonderous Item",
+    "DnD/z/Attributes/Properties/Two-Handed.md",
+    "DnD/z/Attributes/Properties/Reach.md",
+    "DnD/z/Attributes/Properties/Loading.md",
+    "DnD/z/Attributes/Properties/Light.md",
+    "DnD/z/Attributes/Properties/Finesse.md",
+    "DnD/z/Attributes/Properties/Ammunition.md",
+    "DnD/z/Attributes/Masteries/Weapons/Vex.md",
+    "DnD/z/Attributes/Masteries/Weapons/Topple.md",
+    "DnD/z/Attributes/Masteries/Weapons/Slow.md",
+    "DnD/z/Attributes/Masteries/Weapons/Sap.md",
+    "DnD/z/Attributes/Masteries/Weapons/Push.md",
+    "DnD/z/Attributes/Masteries/Weapons/Nick.md",
+    "DnD/z/Attributes/Masteries/Weapons/Graze.md",
+    "DnD/z/Attributes/Masteries/Weapons/Cleave.md",
+    "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Locations/Locations.md",
     "DnD/z/Items/PlayerItems/Supplies (Adventuring Gear).md",
+    "DnD/z/Items/PlayerItems/Trinkets.md",
     "DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Uncommon/Adamantine/Adamantine Armor.md",
     "DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Uncommon/Adamantine/Adamantine Scale Mail.md",
     "DnD/z/Images/image-1.png",
@@ -828,34 +903,14 @@
     "DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Uncommon/Mithral/Mithral Armor.md",
     "DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Uncommon/Mariner's/Mariner's Armor.md",
     "DnD/z/Items/PlayerItems/Homebrew Magic Items/Lyre of Resonant Echoes.md",
-    "DnD/z/Items/PlayerItems/Class Specific/Fighter.md",
-    "DnD/z/Attributes/Properties/Light.md",
-    "DnD/Campaigns/The Mystery of the Forest/Act 2 - The Curious Caverns/Scenes/8. The Treasure Room.md",
-    "DnD/Campaigns/The Mystery of the Forest/Act 2 - The Curious Caverns/Scenes/1. Trap Rooms/Arlowe Trap Room.md",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 1 - Arrival.md",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Chapter 1 - Tavern.md",
-    "DnD/Templates/TemplateNPC.md",
-    "DnD/z/Items/PlayerItems/Class Specific/Bard.md",
-    "DnD/0. DM Screen/0.DM Screen.md",
-    "DnD/z/Items/PlayerItems/Homebrew Magic Items/test.md",
-    "DnD/Templates/TemplateMagicalItem.md",
-    "DnD/z/Items/PlayerItems/test.md",
     "DnD/z/Items/Homebrew Magic Items",
-    "DnD/z/Items/Homebrew Magic Items/.md",
     "DnD/z/Items/PlayerItems/Homebrew Magic Items",
-    "DnD/3. Resources/Magical Items/Adamantine Chain Shirt.md",
-    "DnD/Templates/TemplateScene.md",
-    "DnD/z/Attributes/Masteries/Weapons/Vex.md",
-    "DnD/z/Attributes/Masteries/Weapons/Sap.md",
-    "DnD/z/Attributes/Masteries/Weapons/Topple.md",
     "DnD/z/Attributes/Masteries/Weapons",
     "DnD/z/Attributes/Properties",
     "DnD/z/Attributes/Masteries",
     "DnD/z/Attributes",
     "DnD/z/Items/PlayerItems/MagicItems/Weapons/Weapon/Weapon - Uncommon/Mithral",
     "DnD/z/Items/PlayerItems/MagicItems/Weapons/Weapon/Weapon - Uncommon/Adamantine",
-    "DnD/z/Items/PlayerItems/MagicItems/Weapons/Weapon/Weapon - Uncommon",
-    "DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Uncommon/Mithral",
     "DnD/z/Images/The Root Shepherd face.jpg",
     "DnD/z/Images/Hanbury Caverns.png",
     "DnD/z/Images/widget.jpeg",
@@ -863,7 +918,6 @@
     "DnD/z/Images/Naeris Silvergrove.jpeg",
     "DnD/z/Images/Heimskr.jpg",
     "DnD/z/Images/Arlowe.jpeg",
-    "DnD/z/Images/Awoken Room.jpg",
     "The Mystery of the Forest/Act 1 - The Grove That Watches/Act 1 - The Grove That Watches.canvas"
   ]
 }
