@@ -18,6 +18,180 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Scene 2 - Tavern and Josh intro",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 2 - Tavern and Josh intro.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 2 - Tavern and Josh intro\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":36},\"to\":{\"line\":3,\"ch\":36}}}"
+                },
+                {
+                  "title": "Scene 3 - Drinking",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3 - Drinking.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3 - Drinking\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 2 - Tavern and Josh intro",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 2 - Tavern and Josh intro.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 2 - Tavern and Josh intro\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 1 - Arrival",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 1 - Arrival.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 1 - Arrival\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "WoodenPandant_HollowOak",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/UniqueItems/WoodenPandant_HollowOak.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"WoodenPandant_HollowOak\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "4. Hollow Oak",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/4. Hollow Oak.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"4. Hollow Oak\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":3.9166666666666665}"
+                },
+                {
+                  "title": "4. The Living Mycelium Bridge",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 2 - The Curious Caverns/Scenes/4. The Living Mycelium Bridge.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"4. The Living Mycelium Bridge\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":20.583333333333332}"
+                },
+                {
+                  "title": "8. The Treasure Room",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 2 - The Curious Caverns/Scenes/8. The Treasure Room.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"8. The Treasure Room\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":12.25}"
+                },
+                {
+                  "title": "Sigil of the Shadowed Oath",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/3. Resources/Magical Items/Sigil of the Shadowed Oath.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Sigil of the Shadowed Oath\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}},\"scroll\":15.75}"
+                },
+                {
+                  "title": "8. The Treasure Room",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 2 - The Curious Caverns/Scenes/8. The Treasure Room.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"8. The Treasure Room\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":12.25}"
+                },
+                {
+                  "title": "7. The Gladiator Ring",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 2 - The Curious Caverns/Scenes/7. The Gladiator Ring.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"7. The Gladiator Ring\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":26.525390625}"
+                },
+                {
+                  "title": "8. The Treasure Room",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 2 - The Curious Caverns/Scenes/8. The Treasure Room.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"8. The Treasure Room\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "6. The Spore Cathedral",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 2 - The Curious Caverns/Scenes/6. The Spore Cathedral.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"6. The Spore Cathedral\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":25.611328125}"
+                },
+                {
+                  "title": "7. The Gladiator Ring",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 2 - The Curious Caverns/Scenes/7. The Gladiator Ring.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"7. The Gladiator Ring\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":36.30580357142857}"
+                },
+                {
+                  "title": "Widget Trap Room",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 2 - The Curious Caverns/Scenes/1. Trap Rooms/Widget Trap Room.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Widget Trap Room\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Obasi Trap Room",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 2 - The Curious Caverns/Scenes/1. Trap Rooms/Obasi Trap Room.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Obasi Trap Room\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":3.9166666666666665}"
+                },
+                {
+                  "title": "Chapter 1 - Tavern",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Chapter 1 - Tavern.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Chapter 1 - Tavern\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":3},\"to\":{\"line\":22,\"ch\":3}}}"
+                },
+                {
+                  "title": "Scene 2 - Tavern and Josh intro",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 2 - Tavern and Josh intro.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 2 - Tavern and Josh intro\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Chapter 1 - Tavern",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Chapter 1 - Tavern.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Chapter 1 - Tavern\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":1},\"to\":{\"line\":11,\"ch\":1}},\"scroll\":3.9166666666666665}"
+                },
+                {
+                  "title": "Scene 1 - Arrival",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 1 - Arrival.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 1 - Arrival\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Chapter 1 - Tavern",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Chapter 1 - Tavern.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Chapter 1 - Tavern\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 3 - Drinking",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3 - Drinking.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3 - Drinking\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 2 - Tavern and Josh intro",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 2 - Tavern and Josh intro.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 2 - Tavern and Josh intro\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 3 - Drinking",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3 - Drinking.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 3 - Drinking\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 2 - Tavern and Josh intro",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 2 - Tavern and Josh intro.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 2 - Tavern and Josh intro\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":36},\"to\":{\"line\":3,\"ch\":36}}}"
+                },
+                {
+                  "title": "Scene 1 - Arrival",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 1 - Arrival.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 1 - Arrival\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":18},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 2 - Tavern and Josh intro",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 2 - Tavern and Josh intro.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 2 - Tavern and Josh intro\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 1 - Arrival",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 1 - Arrival.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 1 - Arrival\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":0},\"to\":{\"line\":2,\"ch\":0}}}"
+                },
+                {
+                  "title": "Untitled",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "TemplateSettlement",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Templates/TemplateSettlement.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TemplateSettlement\"}",
@@ -236,17 +410,131 @@
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
+                "aFile": "DnD/Campaigns/The Mystery of the Forest/Act 2 - The Curious Caverns/Scenes/6. The Spore Cathedral.md",
+                "bFile": "DnD/Campaigns/The Mystery of the Forest/Act 2 - The Curious Caverns/Scenes/6. The Spore Cathedral.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "icon": "diff",
+              "title": "Diff: 6. The Spore Cathedral  (Working Tree)"
+            }
+          },
+          {
+            "id": "82cc770ebc731731",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Obasi",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/1. The Party/Obasi.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Obasi\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":0},\"to\":{\"line\":23,\"ch\":0}},\"scroll\":58.165824558423914}"
+                },
+                {
+                  "title": "Paladin Oaths",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/2. Lore/Paladin Oaths.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Paladin Oaths\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "6. Age of Endless Skies",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/2. Lore/6. Age of Endless Skies.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"6. Age of Endless Skies\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Paladin Oaths",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/2. Lore/Paladin Oaths.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Paladin Oaths\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":2},\"to\":{\"line\":5,\"ch\":2}}}"
+                },
+                {
+                  "title": "Chapter 1 - Tavern",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Chapter 1 - Tavern.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Chapter 1 - Tavern\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "6. Age of Endless Skies",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/2. Lore/6. Age of Endless Skies.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"6. Age of Endless Skies\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "5. Third Age of Harmony",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/2. Lore/5. Third Age of Harmony.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"5. Third Age of Harmony\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "4. Second Age of Twilight",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/2. Lore/4. Second Age of Twilight.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"4. Second Age of Twilight\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "6. Age of Endless Skies",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/2. Lore/6. Age of Endless Skies.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"6. Age of Endless Skies\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "5. Third Age of Harmony",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/2. Lore/5. Third Age of Harmony.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"5. Third Age of Harmony\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "4. Second Age of Twilight",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/2. Lore/4. Second Age of Twilight.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"4. Second Age of Twilight\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "3. Age of Verdant Reaches",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/2. Lore/3. Age of Verdant Reaches.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"3. Age of Verdant Reaches\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "1. Age of the First Concord",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/2. Lore/1. Age of the First Concord.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"1. Age of the First Concord\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Britannia",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/1. World/Britannia/Britannia.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Britannia\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Diff: Scene 2 - Tavern and Josh intro  (Working Tree)",
+                  "icon": "diff",
+                  "state": "{\"type\":\"split-diff-view\",\"state\":{\"aFile\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 2 - Tavern and Josh intro.md\",\"bFile\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 2 - Tavern and Josh intro.md\",\"aRef\":\"\"},\"icon\":\"diff\",\"title\":\"Diff: Scene 2 - Tavern and Josh intro  (Working Tree)\"}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "DnD/2. Lore/6. Age of Endless Skies.md",
+                "bFile": "DnD/2. Lore/6. Age of Endless Skies.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: 6. Age of Endless Skies  (Working Tree)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -572,39 +860,40 @@
       "password-protection:Lock password protection": false
     }
   },
-  "active": "acfa7e0420f1fff9",
+  "active": "82cc770ebc731731",
   "lastOpenFiles": [
+    "DnD/1. The Party/Obasi.md",
+    "DnD/2. Lore/Paladin Oaths.md",
+    "DnD/2. Lore/6. Age of Endless Skies.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Chapter 1 - Tavern.md",
+    "DnD/2. Lore/5. Third Age of Harmony.md",
+    "DnD/2. Lore/4. Second Age of Twilight.md",
+    "DnD/2. Lore/3. Age of Verdant Reaches.md",
+    "DnD/2. Lore/1. Age of the First Concord.md",
+    "DnD/1. World/Britannia/Britannia.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 2 - Tavern and Josh intro.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3 - Drinking.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 1 - Arrival.md",
+    "DnD/z/UniqueItems/WoodenPandant_HollowOak.md",
+    "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/4. Hollow Oak.md",
+    "DnD/Campaigns/The Mystery of the Forest/Act 2 - The Curious Caverns/Scenes/4. The Living Mycelium Bridge.md",
+    "DnD/Campaigns/The Mystery of the Forest/Act 2 - The Curious Caverns/Scenes/8. The Treasure Room.md",
+    "DnD/3. Resources/Magical Items/Sigil of the Shadowed Oath.md",
+    "DnD/Campaigns/The Mystery of the Forest/Act 2 - The Curious Caverns/Scenes/7. The Gladiator Ring.md",
+    "DnD/Campaigns/The Mystery of the Forest/Act 2 - The Curious Caverns/Scenes/6. The Spore Cathedral.md",
+    "DnD/Campaigns/The Mystery of the Forest/Act 2 - The Curious Caverns/Scenes/1. Trap Rooms/Widget Trap Room.md",
+    "DnD/Campaigns/The Mystery of the Forest/Act 2 - The Curious Caverns/Scenes/1. Trap Rooms/Obasi Trap Room.md",
+    "DnD/Templates/TemplateNPC.md",
+    "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Locations/Locations.md",
+    "DnD/Templates/TemplateScene.md",
+    "Untitled.md",
     "DnD/Templates/TemplateSettlement.md",
     "image.png",
     "image-1.png",
-    "DnD/Templates/TemplateScene.md",
-    "DnD/Templates/TemplateNPC.md",
-    "DnD/Templates/TemplateMagicalItem.md",
-    "DnD/Templates/TemplateCharacter.md",
-    "DnD/Templates/TemplateChapter.md",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 1 - Arrival.md",
-    "TemplateReadAloud.md",
-    "DnD/Templates/TemplateReadAloud.md",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 2 - Tavern and Josh intro.md",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 4 - Rising Tensions.md",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Chapter 1 - Tavern.md",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapters/1/1.md",
     "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 4b - Rising Tension Drunk.md",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 4a - Rising Tension Sober.md",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3b 1 - Tavern brawl.md",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3a 1 - Tavern brawl.md",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 3 - Drinking.md",
     "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapters/1/Chapter 1 - Tavern.md",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapters/1/Scene 4b - Rising Tension Drunk.md",
     "DnD/Campaigns/The Ninth Convergence/Act 1/Untitled",
-    "Untitled.md",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapters/1/Scene 1 - Arrival.md",
     "DnD/Templates/Untitled",
-    "DnD/3. Resources/NPCs/Untitled 1.md",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/1. Village.md",
-    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapters/1/Scene 3 - Drinking.md",
     "DnD/z/UniqueItems",
     "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 6 - Fight",
     "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 5 - Ritual Site",
