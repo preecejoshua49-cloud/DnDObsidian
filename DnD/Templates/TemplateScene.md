@@ -18,7 +18,8 @@ Placeholder
 
 ## Setup 
 
-### Location
+
+## Location
 
 
 ## Participants 
@@ -28,6 +29,10 @@ Placeholder - Encounter Code
 Placeholder - Statblock Code
 
 ## Challenge 
+
+Placeholder
+
+## Actions
 
 Placeholder
 
