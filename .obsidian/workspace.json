@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "TemplateSettlement",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Templates/TemplateSettlement.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TemplateSettlement\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":81,\"ch\":0},\"to\":{\"line\":81,\"ch\":0}},\"scroll\":58.89277611940298}"
+                },
+                {
+                  "title": "Hanbury Woods",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury Woods.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Hanbury Woods\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":0},\"to\":{\"line\":24,\"ch\":0}}}"
+                },
+                {
                   "title": "Hanbury Village",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury Village.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Hanbury Village\"}",
@@ -88,12 +100,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury Woods.md",
+                "file": "DnD/Templates/TemplateScene.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hanbury Woods"
+              "title": "TemplateScene"
             }
           }
         ]
@@ -441,11 +453,12 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "ae387b79ea036ab2",
+  "active": "b3b30eb368b71af2",
   "lastOpenFiles": [
+    "DnD/Templates/TemplateSettlement.md",
+    "DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury Woods.md",
     "DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury Village.md",
     "DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury Caverns.md",
-    "DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury Woods.md",
     "DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury.md",
     "DnD/1. World/Britannia/Worcestershire/Worcestershire.md",
     "DnD/1. World/Britannia/Britannia.md",
@@ -472,7 +485,6 @@
     "DnD/z/Items/PlayerItems/MagicItems/Wonderous Items",
     "DnD/z/Attributes/Properties/Two-Handed.md",
     "DnD/z/Attributes/Properties/Reach.md",
-    "DnD/z/Attributes/Properties/Loading.md",
     "DnD/z/Images/image-1.png",
     "DnD/z/Images/image.png",
     "DnD/z/Items/Homebrew Magic Items",

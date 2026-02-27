@@ -80,8 +80,6 @@ _%>
 > Exports | `=this.exports` |
 > Imports | `=this.imports` |
 
-
-# `=this.file.name`
 ## Overview
 Placeholder
 
@@ -89,9 +87,7 @@ Placeholder
 ![[z_Assets/Misc/MapPlaceholder.png|Placeholder Map]]
 [[z_Assets/Misc/MapPlaceholder.png|open outside]]
 
-### Placeholder Picture
-![[z_Assets/Misc/ImagePlaceholder.png|Placeholder Picture]]
-[[z_Assets/Misc/ImagePlaceholder.png|open outside]]
+### Address
 
 Placeholder
 
