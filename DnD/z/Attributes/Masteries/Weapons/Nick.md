@@ -1,0 +1,1 @@
+When you make the extra attack of the [Light](https://www.dndbeyond.com/sources/dnd/free-rules/equipment#Light) property, you can make it as part of the [Attack](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#AttackAction) action instead of as a Bonus Action. You can make this extra attack only once per turn.

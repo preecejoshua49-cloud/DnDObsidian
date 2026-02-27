@@ -24,71 +24,61 @@
               "items": [
                 {
                   "type": "group",
-                  "ctime": 1772222552491,
+                  "ctime": 1772225341892,
                   "items": [
                     {
                       "type": "group",
-                      "ctime": 1772222552491,
+                      "ctime": 1772225325492,
                       "items": [
                         {
-                          "type": "file",
-                          "ctime": 1772222552491,
-                          "path": "DnD/z/Vendor Items/Armour/Armour - Legendary.md",
-                          "subpath": "#^-"
-                        },
-                        {
-                          "type": "file",
-                          "ctime": 1772222552491,
-                          "path": "DnD/z/Vendor Items/Armour/Armour - Rare.md",
-                          "subpath": "#^-"
-                        },
-                        {
-                          "type": "file",
-                          "ctime": 1772222552491,
-                          "path": "DnD/z/Vendor Items/Armour/Armour - Uncommon.md",
-                          "subpath": "#^-"
-                        },
-                        {
-                          "type": "file",
-                          "ctime": 1772222552491,
-                          "path": "DnD/z/Vendor Items/Armour/Armour - Very Rare.md",
-                          "subpath": "#^-"
-                        },
-                        {
-                          "type": "file",
-                          "ctime": 1772222840142,
-                          "path": "DnD/z/Vendor Items/Armour/sortspec.md",
-                          "subpath": "#^-"
+                          "type": "group",
+                          "ctime": 1772223805346,
+                          "items": [
+                            {
+                              "type": "group",
+                              "ctime": 1772222552491,
+                              "items": [
+                                {
+                                  "type": "file",
+                                  "ctime": 1772222552491,
+                                  "path": "DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Legendary.md",
+                                  "subpath": "#^-"
+                                },
+                                {
+                                  "type": "file",
+                                  "ctime": 1772222552491,
+                                  "path": "DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Rare.md",
+                                  "subpath": "#^-"
+                                },
+                                {
+                                  "type": "file",
+                                  "ctime": 1772222552491,
+                                  "path": "DnD/z/Vendor Items/Armour/Armour - Uncommon.md",
+                                  "subpath": "#^-"
+                                },
+                                {
+                                  "type": "file",
+                                  "ctime": 1772222552491,
+                                  "path": "DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Very Rare.md",
+                                  "subpath": "#^-"
+                                },
+                                {
+                                  "type": "file",
+                                  "ctime": 1772222840142,
+                                  "path": "DnD/z/Vendor Items/Armour/sortspec.md",
+                                  "subpath": "#^-"
+                                }
+                              ],
+                              "title": "\\\\Armour"
+                            }
+                          ],
+                          "title": "\\\\MagicItems"
                         }
                       ],
-                      "title": "Armour"
-                    },
-                    {
-                      "type": "group",
-                      "ctime": 1772222886432,
-                      "items": [],
-                      "title": "Class Specific"
-                    },
-                    {
-                      "type": "group",
-                      "ctime": 1772222886432,
-                      "items": [],
-                      "title": "Weapons"
-                    },
-                    {
-                      "type": "file",
-                      "ctime": 1772222886432,
-                      "path": "DnD/z/Vendor Items/Supplies (Adventuring Gear).md",
-                      "subpath": "#^-"
-                    },
-                    {
-                      "type": "file",
-                      "ctime": 1772222886432,
-                      "path": "DnD/z/Vendor Items/Trinkets.md",
-                      "subpath": "#^-"
+                      "title": "\\\\PlayerItems"
                     }
                   ],
-                  "title": "\\\\Vendor Items"
+                  "title": "Items"
                 }
               ],
               "title": "\\\\z"
