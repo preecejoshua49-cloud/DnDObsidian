@@ -18,6 +18,138 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Trinkets",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Items/PlayerItems/Trinkets.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Trinkets\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Supplies (Adventuring Gear)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Items/PlayerItems/Supplies (Adventuring Gear).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Supplies (Adventuring Gear)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Adamantine Armor",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Uncommon/Adamantine/Adamantine Armor.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Adamantine Armor\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}}}"
+                },
+                {
+                  "title": "Adamantine Scale Mail",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Uncommon/Adamantine/Adamantine Scale Mail.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Adamantine Scale Mail\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Adamantine Armor",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Uncommon/Adamantine/Adamantine Armor.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Adamantine Armor\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":148},\"to\":{\"line\":5,\"ch\":148}}}"
+                },
+                {
+                  "title": "Adamantine Chain Shirt",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Uncommon/Adamantine/Adamantine Chain Shirt.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Adamantine Chain Shirt\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Adamantine Scale Mail",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Uncommon/Adamantine/Adamantine Scale Mail.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Adamantine Scale Mail\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":150},\"to\":{\"line\":1,\"ch\":150}}}"
+                },
+                {
+                  "title": "Adamantine Armor",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Uncommon/Adamantine/Adamantine Armor.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Adamantine Armor\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":6},\"to\":{\"line\":2,\"ch\":6}}}"
+                },
+                {
+                  "title": "Adamantine Scale Mail",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Uncommon/Adamantine/Adamantine Scale Mail.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Adamantine Scale Mail\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Adamantine Armor",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Uncommon/Adamantine/Adamantine Armor.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Adamantine Armor\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}}}"
+                },
+                {
+                  "title": "Adamantine Chain Shirt",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Uncommon/Adamantine/Adamantine Chain Shirt.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Adamantine Chain Shirt\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Adamantine Armor",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Uncommon/Adamantine/Adamantine Armor.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Adamantine Armor\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":136},\"to\":{\"line\":4,\"ch\":138}}}"
+                },
+                {
+                  "title": "Adamantine Chain Shirt",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Uncommon/Adamantine/Adamantine Chain Shirt.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Adamantine Chain Shirt\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Adamantine Armor",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Uncommon/Adamantine/Adamantine Armor.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Adamantine Armor\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Adamantine Chain Shirt",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Uncommon/Adamantine/Adamantine Chain Shirt.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Adamantine Chain Shirt\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Adamantine Armor",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Uncommon/Adamantine/Adamantine Armor.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Adamantine Armor\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                },
+                {
+                  "title": "Adamantine Chain Shirt",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Uncommon/Adamantine/Adamantine Chain Shirt.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Adamantine Chain Shirt\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Adamantine Armor",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Uncommon/Adamantine/Adamantine Armor.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Adamantine Armor\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Adamantine Chain Shirt",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Uncommon/Adamantine/Adamantine Chain Shirt.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Adamantine Chain Shirt\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":248},\"to\":{\"line\":2,\"ch\":248}}}"
+                },
+                {
+                  "title": "Adamantine Armor",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Uncommon/Adamantine/Adamantine Armor.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Adamantine Armor\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Mithral Armor",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Uncommon/Mithral/Mithral Armor.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Mithral Armor\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "Mariner's Armor",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Uncommon/Mariner's/Mariner's Armor.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Mariner's Armor\"}",
@@ -28,12 +160,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Uncommon/Mithral/Mithral Armor.md",
+                "file": "DnD/z/Items/PlayerItems/Supplies (Adventuring Gear).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mithral Armor"
+              "title": "Supplies (Adventuring Gear)"
             }
           }
         ]
@@ -633,18 +765,42 @@
                     {
                       "state": "{}",
                       "eState": "{}"
+                    },
+                    {
+                      "title": "Adamantine Scale Mail - Magic Items - D&D Beyond",
+                      "icon": "globe-2",
+                      "state": "{\"state\":{\"url\":\"https://www.dndbeyond.com/magic-items/5370-adamantine-armor\"},\"type\":\"webviewer\"}",
+                      "eState": "null"
+                    },
+                    {
+                      "title": "Adamantine Armor - Magic Items - D&D Beyond",
+                      "icon": "globe-2",
+                      "state": "{\"state\":{\"url\":\"https://www.dndbeyond.com/magic-items?filter-type=1&filter-search=&filter-requires-attunement=&filter-effect-type=&filter-effect-subtype=&filter-has-charges=&filter-partnered-content=f\"},\"type\":\"webviewer\"}",
+                      "eState": "null"
+                    },
+                    {
+                      "title": "Magic Items for Dungeons & Dragons (D&D) Fifth Edition (5e) - D&D Beyond",
+                      "icon": "globe-2",
+                      "state": "{\"state\":{\"url\":\"https://www.dndbeyond.com/magic-items\"},\"type\":\"webviewer\"}",
+                      "eState": "null"
+                    },
+                    {
+                      "title": "Magic Items for Dungeons & Dragons (D&D) Fifth Edition (5e) - D&D Beyond",
+                      "icon": "globe-2",
+                      "state": "{\"state\":{\"url\":\"https://www.dndbeyond.com/magic-items/4566-adamantine-chain-shirt\"},\"type\":\"webviewer\"}",
+                      "eState": "null"
                     }
                   ]
                 },
                 "state": {
                   "type": "webviewer",
                   "state": {
-                    "url": "https://www.dndbeyond.com/magic-items/4566-adamantine-chain-shirt",
-                    "title": "Adamantine Chain Shirt - Magic Items - D&D Beyond",
+                    "url": "https://www.dndbeyond.com/magic-items/4845-adamantine-scale-mail",
+                    "title": "Adamantine Scale Mail - Magic Items - D&D Beyond",
                     "mode": "webview"
                   },
                   "icon": "globe-2",
-                  "title": "Adamantine Chain Shirt - Magic Items - D&D Beyond"
+                  "title": "Adamantine Scale Mail - Magic Items - D&D Beyond"
                 }
               }
             ]
@@ -662,11 +818,18 @@
   },
   "active": "16f862668080a0af",
   "lastOpenFiles": [
+    "DnD/z/Items/PlayerItems/Trinkets.md",
+    "DnD/z/Items/PlayerItems/Supplies (Adventuring Gear).md",
+    "DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Uncommon/Adamantine/Adamantine Armor.md",
+    "DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Uncommon/Adamantine/Adamantine Scale Mail.md",
+    "DnD/z/Images/image-1.png",
+    "DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Uncommon/Adamantine/Adamantine Chain Shirt.md",
+    "DnD/z/Images/image.png",
+    "DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Uncommon/Mithral/Mithral Armor.md",
     "DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Uncommon/Mariner's/Mariner's Armor.md",
     "DnD/z/Items/PlayerItems/Homebrew Magic Items/Lyre of Resonant Echoes.md",
     "DnD/z/Items/PlayerItems/Class Specific/Fighter.md",
     "DnD/z/Attributes/Properties/Light.md",
-    "DnD/z/Items/PlayerItems/MagicItems/Armour/Armour - Uncommon/Adamantine/Adamantine Armor.md",
     "DnD/Campaigns/The Mystery of the Forest/Act 2 - The Curious Caverns/Scenes/8. The Treasure Room.md",
     "DnD/Campaigns/The Mystery of the Forest/Act 2 - The Curious Caverns/Scenes/1. Trap Rooms/Arlowe Trap Room.md",
     "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 1 - Arrival.md",
@@ -685,11 +848,6 @@
     "DnD/z/Attributes/Masteries/Weapons/Vex.md",
     "DnD/z/Attributes/Masteries/Weapons/Sap.md",
     "DnD/z/Attributes/Masteries/Weapons/Topple.md",
-    "DnD/z/Attributes/Masteries/Weapons/Slow.md",
-    "DnD/z/Attributes/Masteries/Weapons/Push.md",
-    "DnD/z/Attributes/Masteries/Weapons/Nick.md",
-    "DnD/z/Attributes/Masteries/Weapons/Graze.md",
-    "DnD/z/Attributes/Masteries/Weapons/Cleave.md",
     "DnD/z/Attributes/Masteries/Weapons",
     "DnD/z/Attributes/Properties",
     "DnD/z/Attributes/Masteries",
@@ -706,8 +864,6 @@
     "DnD/z/Images/Heimskr.jpg",
     "DnD/z/Images/Arlowe.jpeg",
     "DnD/z/Images/Awoken Room.jpg",
-    "DnD/z/Images/The Spore Cathedral.jpg",
-    "DnD/z/Images/The Hollowed Guardian.jpg",
     "The Mystery of the Forest/Act 1 - The Grove That Watches/Act 1 - The Grove That Watches.canvas"
   ]
 }
