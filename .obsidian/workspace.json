@@ -18,6 +18,108 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "1. The Field",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/1. The Field.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"1. The Field\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scene 2b - Merchant Inventory",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 2 - Summons/Scene 2b - Merchant Inventory.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 2b - Merchant Inventory\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Scene 2 - The Wandering Merchant",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 2 - Summons/Scene 2 - The Wandering Merchant.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 2 - The Wandering Merchant\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":24.065506653019447}"
+                },
+                {
+                  "title": "Scene 2b - Merchant Inventory",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 2 - Summons/Scene 2b - Merchant Inventory.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 2b - Merchant Inventory\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Scene 2 - The Wandering Merchant",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 2 - Summons/Scene 2 - The Wandering Merchant.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scene 2 - The Wandering Merchant\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":24.065506653019447}"
+                },
+                {
+                  "title": "1. The Field",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/1. The Field.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"1. The Field\"}",
+                  "eState": "{\"scroll\":15.716796875}"
+                },
+                {
+                  "title": "1. Age of the First Concord",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/2. Lore/1. Age of the First Concord.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"1. Age of the First Concord\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "CheckingTheCrops_TheField",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/MiscActions/CheckingTheCrops_TheField.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"CheckingTheCrops_TheField\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.10526315789473684}"
+                },
+                {
+                  "title": "1. The Field",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/1. The Field.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"1. The Field\"}",
+                  "eState": "{\"scroll\":16.606811601315208}"
+                },
+                {
+                  "title": "0.DM Screen",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/0. DM Screen/0.DM Screen.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"0.DM Screen\"}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "1. The Field",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/1. The Field.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"1. The Field\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":40,\"ch\":42},\"to\":{\"line\":40,\"ch\":42}},\"scroll\":23.9953125}"
+                },
+                {
+                  "title": "Locations",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Locations/Locations.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Locations\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "1. The Field",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/1. The Field.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"1. The Field\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Hanbury Woods",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury Woods.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Hanbury Woods\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":21,\"ch\":0}},\"scroll\":13.418530351437699}"
+                },
+                {
+                  "title": "Locations",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Locations/Locations.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Locations\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Penis",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Test/Penis.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Penis\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":21},\"to\":{\"line\":0,\"ch\":21}}}"
+                },
+                {
                   "title": "TemplateNPC",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Templates/TemplateNPC.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TemplateNPC\"}",
@@ -26,14 +128,14 @@
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "DnD/Test/Penis.md",
-                "mode": "source",
-                "source": false
+                "aFile": "DnD/0. DM Screen/0.DM Screen.md",
+                "bFile": "DnD/0. DM Screen/0.DM Screen.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Penis"
+              "icon": "diff",
+              "title": "Diff: 0.DM Screen  (Working Tree)"
             }
           }
         ]
@@ -363,44 +465,44 @@
   },
   "active": "2c67234dca5b7a2a",
   "lastOpenFiles": [
-    "DnD/Templates/TemplateNPC.md",
-    "DnD/Test/Penis.md",
-    "DnD/Test",
-    "DnD/Templates/TemplateMagicalItem.md",
-    "DnD/3. Resources/Monsters/Awakened Tree.md",
-    "DnD/3. Resources/Monsters/Twig Blight.md",
-    "DnD/3. Resources/Monsters/Scarecrow.md",
-    "DnD/3. Resources/Monsters/Polar Bear.md",
+    "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Scenes/1. The Field.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 2 - Summons/Scene 2b - Merchant Inventory.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 2 - Summons/Scene 2 - The Wandering Merchant.md",
     "DnD/2. Lore/1. Age of the First Concord.md",
-    "DnD/2. Lore/2. Age of Growing Shadows.md",
-    "DnD/2. Lore/5. Third Age of Harmony.md",
-    "DnD/2. Lore/6. Age of Endless Skies.md",
-    "DnD/2. Lore/4. Second Age of Twilight.md",
-    "DnD/2. Lore/3. Age of Verdant Reaches.md",
-    "DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury Woods.md",
-    "DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury Village.md",
-    "DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury Caverns.md",
-    "DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury.md",
-    "DnD/1. World/Britannia/Worcestershire/Worcestershire.md",
-    "DnD/1. World/Britannia/Britannia.md",
-    "DnD/1. The Party/Player List.md",
-    "DnD/1. The Party/Obasi.md",
+    "DnD/z/MiscActions/CheckingTheCrops_TheField.md",
     "DnD/0. DM Screen/0.DM Screen.md",
-    "DnD/Magical Items",
-    "DnD/Magical Items/NewMagicalItem.md",
-    "DnD/3. Resources",
-    "3. Manual",
-    "DnD/Campaigns/The Mystery of the Forest/Act 2 - The Curious Caverns/Locations/Locations.md",
-    "DnD/Campaigns/The Mystery of the Forest/Act 2 - The Curious Caverns/Locations",
-    "DnD/1. World/Britannia/Hanbury Woods.md",
-    "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Locations/Locations.md",
-    "DnD/2. Lore",
-    "DnD/1. World/Britannia/Worcestershire/Hanbury",
-    "DnD/1. World/Britannia/Worcestershire",
+    "Untitled.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 6 - Fight/Step 1b - Battle start Q&A.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 6 - Fight/Intro narrative.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 6 - Fight/Step 1 - Battle start.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 6 - Fight",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 5 - Ritual Site/Step 4 - Devotion Paladin Approaches the Ninth Pillar.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 5 - Ritual Site/Step 2 - Novice Chants.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 5 - Ritual Site/Step 5 - Convergence.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 5 - Ritual Site/Quick DM Ritual Circle Skill Checks.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 5 - Ritual Site/Step 1.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 5 - Ritual Site/Quick DM Q&A Reference.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 5 - Ritual Site/Intro narrative.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 5 - Ritual Site",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 4 - Village/Scene 1 - Q&A.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 4 - Village/Intro.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 4 - Village",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 3 - Journey/Scene 6a - The Problem Q&A.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 3 - Journey/Scene 6 - The Problem.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 3 - Journey/Scene 4a - The Temple of the Eight Arrival Q&A.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 3 - Journey/Scene 5a - Entering the Temple Q&A.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 3 - Journey/Scene 5 - Entering the Temple.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 3 - Journey/Scene 4 - The Temple of the Eight Arrival.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 3 - Journey/Scene 3a - Wolves Fight.md",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 3 - Journey",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 2 - Summons",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes/Chapter 1 - Tavern",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Scenes",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 6 - Fight",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 5 - Ritual Site",
+    "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 4 - Village",
     "DnD/z/Images/The Root Shepherd face.jpg",
     "DnD/z/Images/Hanbury Caverns.png",
-    "DnD Campaign/1. World/Britannia/Hanbury Woods",
-    "DnD Campaign/1. World/Britannia",
     "DnD/z/Images/widget.jpeg",
     "DnD/z/Images/Obasi.jpeg",
     "DnD/z/Images/Naeris Silvergrove.jpeg",
