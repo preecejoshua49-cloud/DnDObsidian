@@ -11,17 +11,17 @@
             "id": "22db840fb8767063",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Bernard",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/NPCs/Bernard.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Bernard\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":0}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "The Pattern of the Predator",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 3 - The Hunt/Locations/The Pattern of the Predator.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Pattern of the Predator\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":47,\"ch\":0},\"to\":{\"line\":47,\"ch\":0}},\"scroll\":32.5}"
                 },
                 {
                   "title": "Bernard",
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DnD/Campaigns/The Mystery of the Forest/Act 3 - The Hunt/Locations/The Pattern of the Predator.md",
+                "file": "DnD/z/Notes/CR to XP Conversion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Pattern of the Predator"
+              "title": "CR to XP Conversion"
             }
           }
         ]
@@ -389,8 +389,10 @@
   },
   "active": "22db840fb8767063",
   "lastOpenFiles": [
-    "DnD/z/NPCs/Bernard.md",
     "DnD/Campaigns/The Mystery of the Forest/Act 3 - The Hunt/Locations/The Pattern of the Predator.md",
+    "DnD/z/Notes/CR to XP Conversion.md",
+    "DnD/z/Notes",
+    "DnD/z/NPCs/Bernard.md",
     "DnD/0. DM Screen/0.DM Screen.md",
     "DnD/z/NPCs/Harlan Thatch.md",
     "DnD/z/MiscActions/TheSpiralStones_HanburyWoods.md",
@@ -427,7 +429,6 @@
     "DnD/z/Attributes/Masteries/Weapons",
     "DnD/z/Attributes/Properties",
     "DnD/z/Attributes/Masteries",
-    "DnD/z/Attributes",
     "DnD/z/Images/The Root Shepherd face.jpg",
     "DnD/z/Images/Hanbury Caverns.png",
     "DnD/z/Images/widget.jpeg",
