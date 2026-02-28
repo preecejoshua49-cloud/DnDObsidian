@@ -11,13 +11,13 @@ Receive [[Letter from Obasi]] and accept the quest
 [[Britannia]]
 
 ## Region 
-[[Worcestershire]]
+[[Fellmere]]
 
 ## Location
+[[Lune Valley]]
 
 ## Scene List
 [[Scene 1 - The Letter]]
-[[Scene 1 - The Wandering Merchant]]
 [[Scene 2 - Lodging]]
 
 ## DM Objectives

@@ -22,7 +22,6 @@ Pause for player observation, perception, or investigation.
 - DC 12–15 Perception (or Investigation) to notice movement in the treeline.
     
 - Drunk or exhausted characters: roll at disadvantage.
-    
 
 ### 🎭 Read-Aloud (Successful Detection)
 
@@ -33,18 +32,13 @@ Pause for player observation, perception, or investigation.
 > The first wolf waits, teeth bared — but you are ready.
 
 - No surprise round.
-    
 - Players may ready actions, position themselves, or warn the caravan.
-    
 
----
 
 ### ❌ Failure / No Investigation
 
 - The wolves strike before the party reacts.
-    
 - Horses panic — wagons jerk, crates shift, hooves pound.
-    
 
 ### 🎭 Read-Aloud (Surprise)
 
@@ -59,3 +53,5 @@ Pause for player observation, perception, or investigation.
     - Crates can topple (Dex save DC 12 to avoid damage)
         
     - Wagons shift (difficult terrain for the first round)
+
+[[Scene 4a - Wolves Fight]]

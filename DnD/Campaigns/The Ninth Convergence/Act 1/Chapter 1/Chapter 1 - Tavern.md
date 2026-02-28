@@ -8,16 +8,17 @@
 [[Britannia]]
 
 ## Region 
-[[Worcestershire]]
+[[Fellmere]]
 
 ## Location
+[[Lune Valley]]
 
 ## Player Objectives 
-Introduction to [[JoshCharacter]]
+Introduction to [[]]
 
 ## Scene List
 [[Scene 1 - Arrival]]
-[[Scene 2 - Tavern and Josh intro]]
+[[Scene 2 - Tavern]]
 [[Scene 3 - Drinking]]
 [[Scene 3 - Rising Tensions]]
 
