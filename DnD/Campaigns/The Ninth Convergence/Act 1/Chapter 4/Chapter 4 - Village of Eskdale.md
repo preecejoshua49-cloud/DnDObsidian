@@ -18,7 +18,7 @@ The wind dies as suddenly as it came.
 [[Fellmere]]
 
 ## Location
-[[DnD/1. World/Britannia/Kingdom/Northanhymbraa/Location/Eskdale]]
+[[Eskdale]]
 
 ## Player Objectives 
 
