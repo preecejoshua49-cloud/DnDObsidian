@@ -11,7 +11,7 @@ Receive [[Letter from Obasi]] and accept the quest
 [[Britannia]]
 
 ## Region 
-[[Fellmere]]
+[[Lune Valley]]
 
 ## Location
 [[Lune Valley]]

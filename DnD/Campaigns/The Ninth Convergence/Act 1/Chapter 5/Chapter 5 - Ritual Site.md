@@ -13,7 +13,7 @@ Two pillars remain unoccupied: Vengeance and Devotion.
 [[Fellmere]]
 
 ## Location
-[[Eskdale]]
+[[DnD/1. World/Britannia/Kingdom/Northanhymbraa/Location/Eskdale]]
 
 ## Player Objectives 
 

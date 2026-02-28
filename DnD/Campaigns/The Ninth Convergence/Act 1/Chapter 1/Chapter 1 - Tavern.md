@@ -8,13 +8,13 @@
 [[Britannia]]
 
 ## Region 
-[[Fellmere]]
+[[Lune Valley]]
 
 ## Location
 [[Lune Valley]]
 
 ## Player Objectives 
-Introduction to [[]]
+Introduction to [[Grolin Bonkbeard]]
 
 ## Scene List
 [[Scene 1 - Arrival]]

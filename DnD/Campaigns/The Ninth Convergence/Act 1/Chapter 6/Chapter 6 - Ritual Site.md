@@ -18,7 +18,7 @@ He is still standing.
 [[Fellmere]]
 
 ## Location
-[[Eskdale]]
+[[DnD/1. World/Britannia/Kingdom/Northanhymbraa/Location/Eskdale]]
 
 ## Player Objectives 
 
