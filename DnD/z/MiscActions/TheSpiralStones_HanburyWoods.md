@@ -31,8 +31,13 @@ They are now “in sync” with the hunt.
 - The elk convulses.
     
 - Sap splashes outward.
+
+| Check     | DC  | Result on Fail         | Result on Pass   |
+| --------- | --- | ---------------------- | ---------------- |
+| Dexterity | 12  | Take 1d6 Poison damage | Take half damage |
+
     
-- 2 Vine Blights emerge from beneath carcass.
+- 1 [[Elk]] & 1 [[Giant Boar]] Attack.
     
 
 Combat begins.
