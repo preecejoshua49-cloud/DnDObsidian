@@ -1,12 +1,12 @@
 ---
-AssociatedGroup: 
-Gender: 
-Race: 
-Age: 
-Class: 
-Alignment: 
-Character-Role: 
-Location: 
+AssociatedGroup:
+Gender: Male
+Race:
+Age:
+Class: Druid
+Alignment:
+Character-Role:
+Location:
 NoteIcon: npc
 ---
 
