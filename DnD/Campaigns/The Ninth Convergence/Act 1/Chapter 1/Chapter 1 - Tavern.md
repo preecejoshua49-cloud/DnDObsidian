@@ -8,10 +8,10 @@
 [[Britannia]]
 
 ## Region 
-[[Lune Valley]]
+[[DnD/1. World/Britannia/Kingdom/NW Northanhymbra/Location/Lune Valley]]
 
 ## Location
-[[Lune Valley]]
+[[DnD/1. World/Britannia/Kingdom/NW Northanhymbra/Location/Lune Valley]]
 
 ## Player Objectives 
 Introduction to [[Grolin Bonkbeard]]

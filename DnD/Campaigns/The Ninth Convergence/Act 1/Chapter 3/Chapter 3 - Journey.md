@@ -15,7 +15,7 @@ A broad-shouldered woman with weather-lined skin and iron-grey hair tied back in
 [[Fellmere]]
 
 ## Location
-[[The Lakes]]
+[[DnD/1. World/Britannia/Kingdom/NW Northanhymbra/Location/The Lakes]]
 
 ## Player Objectives 
 

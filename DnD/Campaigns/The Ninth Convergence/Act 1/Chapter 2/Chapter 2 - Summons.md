@@ -11,10 +11,10 @@ Receive [[Letter from Obasi]] and accept the quest
 [[Britannia]]
 
 ## Region 
-[[Lune Valley]]
+[[DnD/1. World/Britannia/Kingdom/NW Northanhymbra/Location/Lune Valley]]
 
 ## Location
-[[Lune Valley]]
+[[DnD/1. World/Britannia/Kingdom/NW Northanhymbra/Location/Lune Valley]]
 
 ## Scene List
 [[Scene 1 - The Letter]]
