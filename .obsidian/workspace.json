@@ -18,6 +18,36 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "The Pattern of the Predator",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 3 - The Hunt/Locations/The Pattern of the Predator.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Pattern of the Predator\"}",
+                  "eState": "{\"scroll\":58.3}"
+                },
+                {
+                  "title": "TheSpiralStones_HanburyWoods",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/MiscActions/TheSpiralStones_HanburyWoods.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TheSpiralStones_HanburyWoods\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":23},\"to\":{\"line\":32,\"ch\":23}},\"scroll\":0}"
+                },
+                {
+                  "title": "The Pattern of the Predator",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 3 - The Hunt/Locations/The Pattern of the Predator.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Pattern of the Predator\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":64,\"ch\":7},\"to\":{\"line\":64,\"ch\":7}},\"scroll\":63.800130208333336}"
+                },
+                {
+                  "title": "TheSpiralStones_HanburyWoods",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/MiscActions/TheSpiralStones_HanburyWoods.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TheSpiralStones_HanburyWoods\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":39,\"ch\":35},\"to\":{\"line\":39,\"ch\":35}},\"scroll\":0}"
+                },
+                {
+                  "title": "The Pattern of the Predator",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/Campaigns/The Mystery of the Forest/Act 3 - The Hunt/Locations/The Pattern of the Predator.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Pattern of the Predator\"}",
+                  "eState": "{\"scroll\":60.1}"
+                },
+                {
                   "title": "Elk",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DnD/z/Monsters/Elk.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Elk\"}",
@@ -116,14 +146,10 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DnD/Campaigns/The Mystery of the Forest/Act 3 - The Hunt/Locations/The Pattern of the Predator.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Pattern of the Predator"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -471,19 +497,21 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "22db840fb8767063",
+  "active": "b3b30eb368b71af2",
   "lastOpenFiles": [
-    "DnD/z/Monsters/Elk.md",
-    "DnD/z/Monsters/Giant Boar.md",
-    "DnD/Campaigns/The Mystery of the Forest/Act 3 - The Hunt/Locations/The Pattern of the Predator.md",
-    "DnD/z/Monsters/Polar Bear.md",
-    "DnD/z/Monsters/Awakened Tree.md",
     "DnD/z/Notes/CR to XP Conversion.md",
     "DnD/z/Notes",
     "DnD/z/NPCs/Bernard.md",
+    "DnD/z/Monsters/Giant Boar.md",
+    "DnD/z/Monsters/Elk.md",
+    "DnD/z/MiscActions/TheSpiralStones_HanburyWoods.md",
+    "DnD/Campaigns/The Mystery of the Forest/Act 3 - The Hunt/Locations/The Pattern of the Predator.md",
+    "DnD/Campaigns/The Mystery of the Forest/Act 3 - The Hunt/Locations",
+    "DnD/Campaigns/The Mystery of the Forest/Act 3 - The Hunt",
+    "DnD/z/Monsters/Polar Bear.md",
+    "DnD/z/Monsters/Awakened Tree.md",
     "DnD/0. DM Screen/0.DM Screen.md",
     "DnD/z/NPCs/Harlan Thatch.md",
-    "DnD/z/MiscActions/TheSpiralStones_HanburyWoods.md",
     "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Chapter 1 - Tavern.md",
     "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 2 - Tavern and Josh intro.md",
     "DnD/Campaigns/The Ninth Convergence/Act 1/Chapter 1/Scenes/Scene 1 - Arrival.md",
@@ -493,15 +521,12 @@
     "DnD/Campaigns/The Mystery of the Forest/Act 1 - The Grove That Watches/Locations/Locations.md",
     "DnD/Campaigns/The Mystery of the Forest/Act 2 - The Curious Caverns/Locations/Locations.md",
     "DnD/Campaigns/The Mystery of the Forest/Act 2 - The Curious Caverns/Scenes/5. The Hollowed Guardian.md",
-    "DnD/Campaigns/The Mystery of the Forest/Act 3 - The Hunt/Locations",
-    "DnD/Campaigns/The Mystery of the Forest/Act 3 - The Hunt",
     "DnD/Campaigns/The Mystery of the Forest/Act 2 - The Curious Caverns/Scenes/3. The Root Shepherd.md",
     "DnD/Campaigns/The Mystery of the Forest/Act 2 - The Curious Caverns/Scenes/2. Prison Block.md",
     "DnD/Campaigns/The Mystery of the Forest/Act 2 - The Curious Caverns/Scenes/6. The Spore Cathedral.md",
     "DnD/Campaigns/The Mystery of the Forest/Act 2 - The Curious Caverns/Scenes/7. The Gladiator Ring.md",
     "DnD/1. World/Britannia/Worcestershire/Hanbury/Hanbury Caverns.md",
     "DnD/Templates/TemplateScene.md",
-    "DnD/Templates/TemplateSettlement.md",
     "DnD/z/Images/image-1 1.png",
     "DnD/z/Images/image 1.png",
     "DnD/z/Items/PlayerItems/MagicItems/Wonderous Items/Uncommon",
