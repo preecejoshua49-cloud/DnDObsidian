@@ -14,7 +14,7 @@ He extends the parchment toward you.
 
 # 📜 The Letter (Handout Text)
 
-Send letter to a player who takes the parchment and ask to read out.
+Send [[Letter from Obasi]] to a player who takes the parchment and ask to read out.
 Pause.
 
 ## 🎭 Read Aloud (After the Letter)
