@@ -12,17 +12,6 @@
 
 [[Widget Cogshadow Jr]]
 
-## The Holy Symbol Reaction
-
-When a divine character approaches:
-
-- The holy symbol embedded in bark faintly warms.
-- Not when they pray.
-- Not when they cast.
-- Only when they physically reach toward the decay.
-
-No roll needed — just describe it.
-
 ## Challenge 
 
 **Perception DC 12**
