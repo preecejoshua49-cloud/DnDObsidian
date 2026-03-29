@@ -44,7 +44,7 @@ A Dark Cloak
 
 ## Magical Properties
 
-Once per short rest, teleport up to 15 ft to an unoccupied space they can see, leaving a shadowy afterimage.
+Once per short rest, teleport up to 30 ft to an unoccupied space they can see, leaving a shadowy afterimage.
 
 ---
 
