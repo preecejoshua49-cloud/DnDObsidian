@@ -4,7 +4,10 @@ banner-x: 53
 banner-y: 45
 banner-display: auto
 banner-repeat: false
-banner-height: 1280
+banner-height: 800
+content-start: 61
+banner-fade: -250
+banner-align: right
 ---
 
 Potion, common

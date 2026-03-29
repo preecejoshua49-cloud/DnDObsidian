@@ -400,6 +400,126 @@
           }
         ]
       }
+    ],
+    [
+      "Owlbear",
+      {
+        "name": "Owlbear",
+        "source": "5.5e",
+        "size": "Large",
+        "type": "monstrosity",
+        "subtype": "",
+        "alignment": "unaligned",
+        "ac": 13,
+        "hp": 59,
+        "hit_dice": "7d10 + 21",
+        "speed": "40 ft., climb 40 ft.",
+        "stats": [
+          20,
+          12,
+          17,
+          3,
+          12,
+          7
+        ],
+        "skillsaves": [
+          {
+            "perception": 5
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "darkvision 60 ft., passive Perception 15",
+        "languages": "",
+        "cr": "3",
+        "bestiary": true,
+        "traits": [],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The owlbear makes two Rend attacks.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Rend",
+            "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) slashing damage.",
+            "attack_bonus": 7,
+            "damage_dice": "2d8"
+          }
+        ]
+      }
+    ],
+    [
+      "Druid",
+      {
+        "name": "Druid",
+        "source": "5.5e",
+        "size": "Medium or Small",
+        "type": "humanoid",
+        "subtype": "",
+        "alignment": "neutral",
+        "ac": 13,
+        "hp": 44,
+        "hit_dice": "8d8 + 8",
+        "speed": "30 ft.",
+        "stats": [
+          10,
+          12,
+          13,
+          12,
+          16,
+          11
+        ],
+        "skillsaves": [
+          {
+            "medicine": 5
+          },
+          {
+            "nature": 3
+          },
+          {
+            "perception": 5
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "passive Perception 15",
+        "languages": "Common, Druidic, Sylvan",
+        "cr": "2",
+        "bestiary": true,
+        "equipment": [
+          "Studded Leather Armor"
+        ],
+        "traits": [],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The druid makes two attacks, using Vine Staff or Verdant Wisp in any combination.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Vine Staff",
+            "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage plus 2 (1d4) poison damage.",
+            "attack_bonus": 5,
+            "damage_dice": "1d8"
+          },
+          {
+            "name": "Verdant Wisp",
+            "desc": "Ranged Spell Attack: +5 to hit, range 90 ft., one target. Hit: 10 (3d6) radiant damage.",
+            "attack_bonus": 5,
+            "damage_dice": "3d6"
+          },
+          {
+            "name": "Spellcasting",
+            "desc": "The druid casts spells using Wisdom as the spellcasting ability (spell save DC 13).\n\nAt Will: Druidcraft, Speak with Animals\n2/Day Each: Entangle, Thunderwave\n1/Day Each: Animal Messenger, Longstrider, Moonbeam",
+            "attack_bonus": 0
+          }
+        ]
+      }
     ]
   ],
   "defaultLayouts": {},
