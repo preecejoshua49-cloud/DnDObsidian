@@ -1,12 +1,12 @@
 ---
 AssociatedGroup:
 Gender: Male
-Race:
+Race: Human
 Age:
 Class: Druid
 Alignment:
 Character-Role:
-Location:
+Location: Hanbury
 NoteIcon: npc
 ---
 
